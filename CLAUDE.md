@@ -1,8 +1,3 @@
-
-**Note:** This is the content that should live as `CLAUDE.md` in the root of the GitHub repo when Mona starts building. It's the file Claude Code reads to understand the project. The version here in `/portfolio_chat/` is the reference; the version in the repo is what Claude Code actually uses.
-
----
-
 # CLAUDE.md - Portfolio Chat (Houseplant Matchmaker)
 
 ## Your role

@@ -1,8 +1,3 @@
-
-**Note:** This is the content that should live as `README.md` in the root of the GitHub repo. It's the first thing anyone sees when they land on the repo - hiring managers, technical viewers, anyone you share the link with. The version here in `/portfolio_chat/` is the reference; the version in the repo is what people actually read.
-
----
-
 # Houseplant Matchmaker
 
 A small agentic chat that helps people pick a houseplant that fits their life.
