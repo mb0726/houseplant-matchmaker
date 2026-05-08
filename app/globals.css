@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Subtle base styling — keep the chrome out of the way and let the content
+ * breathe. The PRD says "functional and clean, not designed" for v1. */
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background: #fafaf7;
+  color: #1f2422;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}

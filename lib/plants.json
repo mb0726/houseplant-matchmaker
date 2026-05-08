@@ -1,0 +1,3862 @@
+[
+  {
+    "id": "lipstick",
+    "scientific_name": "Aeschynanthus radicans",
+    "common_name": "Lipstick",
+    "also_known_as": [
+      "Lipstick Plant",
+      "Lipstick Vine",
+      "Basket Vine"
+    ],
+    "category": "trailing",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "lush",
+      "tropical"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "trailing displays",
+      "bright sunny rooms"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A trailing plant best known for its clusters of tubular red flowers that emerge from dark, lipstick-like buds at the vine tips. It needs bright indirect light to bloom reliably and is fussier than it looks \u2014 too little light or inconsistent watering and it'll stop flowering altogether.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Aeschynanthus_perrottetii_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Nativeplants garden. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:aeschynanthus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "maidenhair",
+    "scientific_name": "Adiantum raddianum",
+    "common_name": "Maidenhair",
+    "also_known_as": [
+      "Delta maidenhair"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "unknown",
+    "difficulty": "expert",
+    "size": "small",
+    "vibe": [
+      "delicate",
+      "soft",
+      "lush"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "beginners"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "underwatering",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "One of the most dramatic ferns you can own \u2014 in both beauty and sulkiness. Maidenhair ferns drop and crisp up fast if the air is too dry, the soil dries out even once, or they get a cold draft; they really belong in a humid bathroom or near a humidifier.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Starr_030807-0143_Adiantum_raddianum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "silver_vase",
+    "scientific_name": "Aechmea fasciata",
+    "common_name": "Silver vase",
+    "also_known_as": [
+      "Urn Plant",
+      "Silver Vase Plant"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "unknown",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "low-effort decor",
+      "beginners"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "fungal issues"
+    ],
+    "short_description": "A striking bromeliad with silver-banded, strap-like leaves that form a central \"vase\" \u2014 you water into the cup, not just the soil, and you need to flush it regularly to prevent rot and mosquitoes. It blooms once with a long-lasting pink flower spike, then slowly offsets, so the care rhythm is genuinely different from most houseplants.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Aechmea_fasciata_-_Wilhelma_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "rosy_maidenhair",
+    "scientific_name": "Adiantum hispidulum",
+    "common_name": "Rosy Maidenhair",
+    "also_known_as": [
+      "Autralian maidenhair"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "unknown",
+    "difficulty": "expert",
+    "size": "small",
+    "vibe": [
+      "delicate",
+      "lush",
+      "soft"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "beginners"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A fussy but stunning fern with delicate, fan-shaped fronds that emerge in rosy-bronze tones before maturing to green. It demands consistently moist soil and high humidity \u2014 let it dry out even once and the fronds will crisp up fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Adiantum_Chatswood_west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Poyt448 Peter Woodard. CC0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "dragon_tree_agave",
+    "scientific_name": "Agave attenuata",
+    "common_name": "Dragon tree Agave",
+    "also_known_as": [
+      "Century plant"
+    ],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "structural",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "beginners",
+      "busy people"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A bold, rosette-forming succulent with wide, soft-tipped blue-green leaves that can reach impressive size over time. It's one of the more forgiving agaves \u2014 drought-tough, sun-loving, and happy to be ignored as long as you don't overwater it.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Agave_attenuata_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "Cross-validated by Perplexity + GPT (Agave irritation/toxicity)",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "chinese_evergreen",
+    "scientific_name": "Aglaonema commutatum",
+    "common_name": "Chinese Evergreen",
+    "also_known_as": [
+      "Amelia"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "classic",
+      "tropical"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "cold draft sensitivity"
+    ],
+    "short_description": "One of the most forgiving houseplants around \u2014 Aglaonemas handle low light, inconsistent watering, and general neglect better than almost anything else. The patterned, lance-shaped leaves come in a wide range of greens and silvers, making it a reliable workhorse that still looks good on a shelf or desk.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/20260317_Aglaonema_commutatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Flocci Nivis. CC BY 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:aglaonema",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "imperial_alocasia",
+    "scientific_name": "Alocasia nebula",
+    "common_name": "Imperial Alocasia",
+    "also_known_as": [
+      "Jewel Alocasia"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "expert",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "statement",
+      "tropical"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "root rot",
+      "low humidity damage",
+      "spider mites"
+    ],
+    "short_description": "A rare and striking Alocasia with thick, silvery-grey leaves and a bold, jewel-like presence. Fussy about humidity, watering consistency, and light \u2014 this one's for experienced growers who can keep conditions stable.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Alocasia_macrorrhizos_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:alocasia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "cast_iron_plant",
+    "scientific_name": "Aspidistra elatior",
+    "common_name": "Cast iron plant",
+    "also_known_as": [
+      "Aspidistra",
+      "Bar-room Plant",
+      "Iron Plant"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "low",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "classic",
+      "lush",
+      "structural"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "busy people"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "light burn"
+    ],
+    "short_description": "One of the toughest houseplants around \u2014 it tolerates low light, neglect, dust, and irregular watering without complaint. Slow-growing and unfussy, it earns its name by surviving conditions that would kill most other plants.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Aspidistra-elatior-variegata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: frau-doktor. Public domain via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Aspidistra elatior",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "bronze_anthurium",
+    "scientific_name": "Anthurium superbum",
+    "common_name": "Bronze Anthurium",
+    "also_known_as": [
+      "Anthurium",
+      "King Anthurium"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "humidity lovers",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A dramatic bird's-nest style Anthurium with large, leathery, bronze-tinted leaves that radiate outward in a rosette. It's more forgiving about watering than most Anthuriums, but it still wants decent humidity and bright indirect light to look its best.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Anthurium_superbum_-_Bloedel_Floral_Conservatory%2C_Queen_Elizabeth_Park_-_Vancouver%2C_Canada_-_DSC07551.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Daderot. CC0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:anthurium",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "fish_tail_palm",
+    "scientific_name": "Caryota mitis",
+    "common_name": "Fish tail palm",
+    "also_known_as": [
+      "Fishtail Palm",
+      "Wine Palm"
+    ],
+    "category": "palm",
+    "light": "bright",
+    "water": "high",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "tropical",
+      "statement",
+      "lush"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "brown crispy leaf tips",
+      "low humidity damage"
+    ],
+    "short_description": "A clustering palm with distinctive jagged, fish-tail-shaped leaflets that give it a genuinely unusual look among palms. It wants consistent moisture and decent humidity \u2014 let it dry out or sit in dry indoor air and the leaf tips will go brown fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Caryota_mitis_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Prenn. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "Cross-validated by Perplexity + GPT, citing calcium oxalate toxicity",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "croton",
+    "scientific_name": "Codiaeum petra",
+    "common_name": "Croton",
+    "also_known_as": [
+      "Garden Croton",
+      "Joseph's Coat",
+      "Variegated Croton"
+    ],
+    "category": "tropical",
+    "light": "direct",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "graphic",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "leaf drop from stress",
+      "spider mites",
+      "overwatering"
+    ],
+    "short_description": "Crotons are bold, multi-colored foliage plants that need serious direct sun to keep their vivid yellow, orange, and red leaf patterns \u2014 in low light they fade fast. They're fussy about change: moving them, cold drafts, or inconsistent watering will trigger dramatic leaf drop.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Codiaeum_variegatum_pictum_Petra03ra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Satin66Flower. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "Cross-validated by Perplexity + GPT, citing Pet Poison Helpline",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "tree_cereus",
+    "scientific_name": "Cereus peruvianus",
+    "common_name": "Tree Cereus",
+    "also_known_as": [
+      "Peruvian Apple Cactus",
+      "Cereus",
+      "Hedge Cactus"
+    ],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "unknown",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "structural",
+      "statement"
+    ],
+    "best_for": [
+      "beginners",
+      "bright sunny rooms",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A tall, columnar cactus with a bold, architectural presence that can reach ceiling height indoors over time. Extremely forgiving \u2014 as long as it gets full sun and you resist the urge to overwater, it's nearly impossible to kill.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cierge_du_P%C3%A9rou_%28Cereus_repandus_ou_Cereus_hildmannianus%29_-_JARDIN_D%27ESSAI_OUIDAH_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Fawaz.tairou. CC BY 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "miniature_tree_fern",
+    "scientific_name": "Blechnum gibbum",
+    "common_name": "Miniature tree fern",
+    "also_known_as": [
+      "Dwarf tree fern"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "unknown",
+    "difficulty": "expert",
+    "size": "medium",
+    "vibe": [
+      "delicate",
+      "structural",
+      "tropical"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "bright sunny rooms"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "underwatering",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A striking fern that develops a small, palm-like trunk over time \u2014 impressive, but genuinely fussy. It needs consistently moist soil, high humidity, and bright indirect light, and will punish you fast with crispy brown fronds if any of those slip.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Blechnum_gibbum_%28Washington_DC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Daderot. Public domain via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "bella_palm",
+    "scientific_name": "Chamaedorea elegans",
+    "common_name": "Bella palm",
+    "also_known_as": [
+      "Neanthebella palm",
+      "Dwarf palm",
+      "Parlor palm"
+    ],
+    "category": "palm",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "tropical",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "spider mites",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "One of the most forgiving palms you can grow indoors \u2014 it handles lower light far better than most palms and doesn't throw a tantrum if you occasionally forget to water. Brown leaf tips are common in dry indoor air, but overall it's a reliable, easygoing plant that brings a soft tropical feel to any room.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Chamaedorea_elegans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Tequila 13:54, 24 June 2007 (UTC). CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Chamaedorea elegans",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "medallion_calathea",
+    "scientific_name": "Calathea veitchiana",
+    "common_name": "Medallion Calathea",
+    "also_known_as": [
+      "Calathea Medallion"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "expert",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "graphic",
+      "statement"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "bedrooms"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "brown crispy leaf tips",
+      "overwatering"
+    ],
+    "short_description": "Stunning patterned leaves with dark green medallion markings on top and deep purple undersides, but this plant is fussy and will let you know immediately if it's unhappy. It demands consistently high humidity, filtered water, and careful watering \u2014 brown crispy tips are almost inevitable if conditions aren't just right.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Marantaceae_Calathea_veitchiana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: NasserHalaweh. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:calathea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "silver_calathea",
+    "scientific_name": "Calathea picturata 'Argentea'",
+    "common_name": "Silver Calathea",
+    "also_known_as": [
+      "Silver Plate Calathea"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "lush",
+      "graphic",
+      "tropical"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "bedrooms"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "brown crispy leaf tips",
+      "overwatering"
+    ],
+    "short_description": "A striking Calathea with bold silver-patterned foliage that makes a real statement on a shelf or table. Fussy about humidity and consistent moisture \u2014 brown crispy tips are the first sign it's unhappy, usually from dry air or tap water minerals.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Calathea_warscewiczii_-_Wilhelma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:calathea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "bamboo_palm",
+    "scientific_name": " Chamaedorea seifrizii",
+    "common_name": "Bamboo palm",
+    "also_known_as": [
+      "Reed Palm"
+    ],
+    "category": "palm",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "tropical",
+      "lush",
+      "structural"
+    ],
+    "best_for": [
+      "low-light homes",
+      "statement floor plants",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "spider mites",
+      "brown crispy leaf tips",
+      "overwatering"
+    ],
+    "short_description": "One of the few palms that genuinely handles lower light and indoor conditions, growing in clumping canes that give it a bamboo-like look. It likes some humidity and consistent watering, and spider mites will find it fast if the air is too dry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chamaedorea_seifrizii7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: KENPEI. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:chamaedorea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "polly_alocasia",
+    "scientific_name": "Alocasia \u00d7 amazonica",
+    "common_name": "Polly Alocasia",
+    "also_known_as": [
+      "African Mask Plant",
+      "Polly Plant",
+      "Amazonian Elephant Ear"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "graphic"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "humidity lovers",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A striking plant with dark, arrow-shaped leaves and bold white veins \u2014 it looks dramatic but is genuinely fussy. It needs bright indirect light, consistent humidity, and careful watering; too wet or too dry and it'll drop leaves fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Alocasia_mortfontanensis_at_Taman_Rekreasi_Taman_Sutera%2C_Kajang_20230708_170622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Wiki Farazi. CC0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:alocasia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "flamingo_flower",
+    "scientific_name": "Anthurium andraeanum",
+    "common_name": "Flamingo Flower",
+    "also_known_as": [
+      "Wax flower"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "low-effort decor",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "Anthurium produces its signature waxy, heart-shaped spathes in red, pink, or white, and blooms on and off year-round if it gets enough light. It's fussier than it looks \u2014 low humidity will crisp the leaf edges and poor watering habits lead quickly to root rot.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Anthurium_%28Flamingoplant%29_12-08-2019_%28actm%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Agnes Monkelbaan. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:anthurium",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "bird_s_nest_anthurium",
+    "scientific_name": "Anthurium hookeri",
+    "common_name": "Bird's Nest Anthurium",
+    "also_known_as": [
+      "Cabbage Anthurium"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "humidity lovers",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A bold, rosette-forming Anthurium that grows large, paddle-shaped leaves in a bird's-nest arrangement \u2014 more foliage-forward than its flowering cousins. It's forgiving about drying out between waterings, but it does want humidity and bright indirect light to look its best, and brown tips will tell you quickly if the air is too dry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Anthurium_hookeri.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Oeropium. CC BY 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:anthurium",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "grape_ivy",
+    "scientific_name": "Cissus rhombifolia",
+    "common_name": "Grape Ivy",
+    "also_known_as": [
+      "Ellen Danica"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "trailing displays",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "spider mites",
+      "fungal issues"
+    ],
+    "short_description": "A vigorous vining plant with glossy, deeply lobed leaflets that drape beautifully from a hanging basket or shelf. More forgiving of lower light than most trailers, but it's a magnet for spider mites and can develop fungal problems if airflow is poor \u2014 so don't crowd it.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cissus_alata_Leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Photo by and (c)2014 Derek Ramsey (Ram-Man). GFDL 1.2 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Cissus rhombifolia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "stromante",
+    "scientific_name": "Stromanthe sanguinea",
+    "common_name": "Stromante",
+    "also_known_as": [
+      "Stromanthe",
+      "Triostar Stromanthe"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "graphic",
+      "tropical"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "bedrooms"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "brown crispy leaf tips",
+      "overwatering"
+    ],
+    "short_description": "A prayer plant relative with striking patterned foliage that folds up at night. Fussy about humidity and sensitive to tap water \u2014 brown crispy tips are the first sign it's not happy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Calathea_stromata-1-bsi-yercaud-salem-India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Yercaud-elango. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:calathea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "velvet_calathea",
+    "scientific_name": "Calathea rufibarba",
+    "common_name": "Velvet Calathea",
+    "also_known_as": [
+      "Velvet Touch Calathea",
+      "Furry Feather"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "soft",
+      "tropical"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "bedrooms"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "brown crispy leaf tips",
+      "overwatering"
+    ],
+    "short_description": "A striking Calathea with long, wavy-edged leaves that have a velvety texture on top and deep purple undersides. Like all Calatheas, it's fussy about humidity and water quality \u2014 tap water, dry air, or inconsistent moisture will show up fast as brown, crispy leaf tips.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Calathea_rufibarba_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:calathea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "jade_plant",
+    "scientific_name": "Crassula ovata",
+    "common_name": "Jade Plant",
+    "also_known_as": [
+      "Lucky Plant",
+      "Friendship Tree",
+      "Money Tree"
+    ],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "classic",
+      "minimalist"
+    ],
+    "best_for": [
+      "beginners",
+      "busy people",
+      "bright sunny rooms"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A tough, slow-growing succulent with thick, glossy oval leaves and woody stems that give it a tree-like look over time. Forgiving of neglect and irregular watering \u2014 the main way to kill it is overwatering or leaving it in a dark corner.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Among_the_branches_of_a_potted_jade_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: W.carter. CC0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Crassula argentea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "stiped_calathea",
+    "scientific_name": "Calathea ornata 'Roseolineata'",
+    "common_name": "Stiped calathea",
+    "also_known_as": [
+      "Pinstripe Calathea"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "expert",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "graphic",
+      "tropical"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "bedrooms"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "brown crispy leaf tips",
+      "overwatering"
+    ],
+    "short_description": "Calathea ornata is stunning but fussy \u2014 it demands high humidity, consistent moisture, and no direct sun or cold drafts. Brown crispy tips and curling leaves are its way of telling you the air is too dry, which is most homes.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Calathea_warscewiczii_-_Wilhelma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:calathea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "birdnest_fern",
+    "scientific_name": "Asplenium nidus",
+    "common_name": "Birdnest fern",
+    "also_known_as": [
+      "Bird's Nest Fern",
+      "Bird Nest Fern"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "tropical",
+      "sculptural"
+    ],
+    "best_for": [
+      "bathrooms",
+      "humidity lovers",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "brown crispy leaf tips",
+      "overwatering"
+    ],
+    "short_description": "A bold, glossy fern with broad, strap-like fronds that radiate from a central rosette \u2014 far tougher-looking than most ferns, but still fussy about humidity and consistent moisture. Brown crispy tips are almost always a sign the air is too dry or watering has been inconsistent.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bird%27s-nest_Fern_Asplenium_nidus_Leaves_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Photo by and (c)2014 Derek Ramsey (Ram-Man). GFDL 1.2 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:asplenium",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "spider_plant",
+    "scientific_name": "Chlorophytum comosum",
+    "common_name": "Spider plant",
+    "also_known_as": [
+      "Airplane Plant",
+      "Ribbon Plant",
+      "Spider Ivy"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "trailing",
+      "classic",
+      "lush"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "pet households"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "One of the most forgiving houseplants out there \u2014 it handles low light, irregular watering, and neglect better than almost anything else. The arching leaves and cascading plantlets make it a natural for hanging baskets, and it's non-toxic to pets.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Chlorophytum_comosum_flos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Adrian Tync. CC BY 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Chlorophytum comosum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "tree_maidenhair_fern",
+    "scientific_name": "Didymochlaena truncatula",
+    "common_name": "Tree Maidenhair Fern",
+    "also_known_as": [
+      "Tree Maidenhair"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "unknown",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "delicate",
+      "tropical"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "underwatering",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A striking, tree-like fern with glossy, leathery fronds that grows larger and more upright than most ferns. It needs consistent moisture and decent humidity \u2014 let it dry out or sit in dry air and those leaf tips will go crispy fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Didymochlaena_truncatula_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "dumb_cane",
+    "scientific_name": "Dieffenbachia seguine",
+    "common_name": "Dumb Cane",
+    "also_known_as": [
+      "Tropic Mary Ann"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "low-light homes",
+      "office spaces",
+      "beginners"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A bold, leafy tropical with large patterned leaves in creamy whites and greens \u2014 it makes a real visual impact without needing a ton of light. It's forgiving enough for beginners, but it does not like wet feet, so make sure drainage is solid, and keep it away from cold drafts.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Dieffenbachia_seguine_kz08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:dieffenbachia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "madagascar_dragon_tree",
+    "scientific_name": "Dracaena marginata",
+    "common_name": "Madagascar dragon tree",
+    "also_known_as": [
+      "Tricolor"
+    ],
+    "category": "tree-floor",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "statement",
+      "tropical"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A tough, slow-growing floor plant with slender, spiky leaves edged in red or pink that fan out from a bare, cane-like trunk. It handles low light and some neglect well, but overwatering is the fastest way to kill it \u2014 let the soil dry out a fair bit between waterings.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dracaena_reflexa_var._angustifolia_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Dracaena marginata",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "cornstalk_plant",
+    "scientific_name": "Dracaena fragrans 'Massangeana'",
+    "common_name": "Cornstalk plant",
+    "also_known_as": [
+      "Mass Cane",
+      "Corn Plant",
+      "Dracaena Massangeana"
+    ],
+    "category": "tree-floor",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A cane-stemmed floor plant with broad, arching green leaves striped with a yellow-green center \u2014 one of the most forgiving large houseplants you can own. It handles low light and inconsistent watering better than most, though fluoride in tap water is a common cause of those brown crispy tips.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dracaena_fragrans_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:dracaena",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "janet_craig",
+    "scientific_name": "Dracaena fragrans 'Janet Craig'",
+    "common_name": "Janet Craig",
+    "also_known_as": [
+      "Janet Craig Dracaena",
+      "Dracaena Janet Craig"
+    ],
+    "category": "tree-floor",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "structural",
+      "classic"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A tough, upright dracaena with long, deep-green strap leaves that grows into a bold floor plant over time. One of the most forgiving houseplants around \u2014 it handles low light and irregular watering better than most, though it's sensitive to fluoride in tap water, which causes the brown leaf tips beginners often worry about.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dracaena_fragrans_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Dracaena deremensis",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "earth_star",
+    "scientific_name": "Cryptanthus bivittatus",
+    "common_name": "Earth Star",
+    "also_known_as": [
+      "Cryptanthus",
+      "Earth Star Plant",
+      "Starfish Plant"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "low",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "sculptural",
+      "graphic",
+      "quirky"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "small spaces",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A low-growing, star-shaped bromeliad with striking striped or banded foliage that earns its keep purely on looks. Unlike most bromeliads it grows in soil rather than as an air plant, but it's still fussy about overwatering and appreciates good humidity \u2014 not quite the set-it-and-forget-it plant it's sometimes sold as.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/CryptanthusBivittatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Chhe (talk). Public domain via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:cryptanthus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "yellow_malaysian_dracaena",
+    "scientific_name": "Dracaena reflexa",
+    "common_name": "Yellow Malaysian Dracaena",
+    "also_known_as": [
+      "Song of India"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "Song of India is a slow-growing dracaena with striking yellow-edged green leaves arranged in dense, spiraling rosettes along woody stems. It does best in very bright indirect light and is fussy about fluoride in tap water, which causes the crispy brown leaf tips most owners eventually see.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dracaena_reflexa_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Dracaena reflexa",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "sago_palm",
+    "scientific_name": "Cycas revoluta",
+    "common_name": "Sago palm",
+    "also_known_as": [
+      "King sago"
+    ],
+    "category": "palm",
+    "light": "bright",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "structural",
+      "tropical"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A slow-growing architectural cycad (technically not a true palm) with stiff, feathery fronds radiating from a central crown. It looks dramatic and handles drought well, but it's surprisingly fussy \u2014 overwatering is the fastest way to kill it, and all parts are highly toxic to pets and people.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cycas_revoluta_MHNT.BOT.2018.28.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Roger Culos. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:cycas",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "phrynium",
+    "scientific_name": "Ctenanthe lubbersiana",
+    "common_name": "Phrynium",
+    "also_known_as": [
+      "Never Never Plant",
+      "Ctenanthe"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "unknown",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "tropical",
+      "graphic"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "bright sunny rooms"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "underwatering",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A striking foliage plant in the Marantaceae family, with boldly variegated green and yellow leaves. It needs consistent moisture and decent humidity \u2014 let it dry out or sit in dry air and you'll get brown crispy tips fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ctenanthe_lubbersiana_-_Shinjuku_Gyo-en_Greenhouse_-_Tokyo%2C_Japan_-_DSC05842.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Daderot. CC0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "striped_dracaena",
+    "scientific_name": "Dracaena deremensis",
+    "common_name": "Striped Dracaena",
+    "also_known_as": [
+      "Gold Star"
+    ],
+    "category": "tree-floor",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "structural",
+      "classic"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A forgiving upright Dracaena with long, striped green and yellow leaves that fan out from a central trunk. It handles lower light and inconsistent watering better than most floor plants, though fluoride and mineral buildup in tap water is the usual culprit behind those crispy brown tips.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dracaena_fragrans_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Dracaena deremensis",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "holly_fern",
+    "scientific_name": "Cyrtomium falcatum",
+    "common_name": "Holly-fern",
+    "also_known_as": [
+      "Holly Fern",
+      "Japanese Holly Fern"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "lush",
+      "classic",
+      "delicate"
+    ],
+    "best_for": [
+      "low-light homes",
+      "bathrooms",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "Holly-fern is one of the tougher ferns \u2014 its glossy, holly-like fronds handle lower light and drier air better than most. Still, it wants consistent moisture and will punish you with crispy tips if you let it dry out completely or keep it in a bone-dry room.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cyrtomium_falcatum_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Stan Shebs. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Cyrtomium falcatum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "rabbits_foot",
+    "scientific_name": "Davallia trichomannoides",
+    "common_name": "Rabbits foot",
+    "also_known_as": [
+      "Squirrels foot"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "delicate",
+      "quirky",
+      "trailing"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "shelf or elevated planters",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "overwatering",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A fern best known for its fuzzy, silver-brown rhizomes that creep over the edge of the pot \u2014 the \"rabbit's feet\" of its name. More forgiving than most ferns since it tolerates some drying out between waterings, but it still wants humidity and bright indirect light to stay lush.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Davallia_canariensis_cult0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: No machine-readable author provided. MPF assumed (based on copyright claims).. CC BY 2.5 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:davallia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "rubber_plant",
+    "scientific_name": "Ficus elastica",
+    "common_name": "Rubber plant",
+    "also_known_as": [
+      "Tineke"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "statement",
+      "lush"
+    ],
+    "best_for": [
+      "beginners",
+      "statement floor plants",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "leaf drop from stress"
+    ],
+    "short_description": "A bold, upright floor plant with large, glossy leaves that can handle lower light better than most big-leaf tropicals. Forgiving of the occasional missed watering, but will drop leaves if you move it around or overwater it consistently.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ficus_ficus_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:ficus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "areca_palm",
+    "scientific_name": "Dypsis lutescens",
+    "common_name": "Areca palm",
+    "also_known_as": [
+      "Butterfly palm"
+    ],
+    "category": "palm",
+    "light": "bright",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "tropical",
+      "lush",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "brown crispy leaf tips",
+      "spider mites",
+      "overwatering"
+    ],
+    "short_description": "A full, feathery palm that makes a serious statement in a bright living room. It needs consistent moisture, high humidity, and good light \u2014 neglect any one of those and the tips go brown fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Golden_cane_palm_%28Dypsis_lutescens%29_trunk%2C_Estufa_Fria%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Jules Verne Times Two. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Dypsis lutescens",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "orchid_cactus",
+    "scientific_name": "Epiphyllum",
+    "common_name": "Orchid cactus",
+    "also_known_as": [
+      "Epiphyllum"
+    ],
+    "category": "succulent",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "unknown",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "sculptural",
+      "lush"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "trailing displays",
+      "bright sunny rooms"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "An epiphytic cactus \u2014 native to rainforest canopies, not deserts \u2014 that produces dramatic, often fragrant blooms on long, flat, trailing stems. It's fussier than a typical cactus: it wants bright indirect light, more moisture, and won't forgive sitting in soggy soil.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Epiphyllum_anguliger%2C_Jard%C3%ADn_Bot%C3%A1nico%2C_M%C3%BAnich%2C_Alemania_2012-04-21%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Diego Delso. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "golden_barrel",
+    "scientific_name": "Echinocactus grusonii",
+    "common_name": "Golden Barrel",
+    "also_known_as": [
+      "Golden Barrel Cactus",
+      "Mother-in-law's Cushion"
+    ],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "unknown",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "minimalist",
+      "quirky"
+    ],
+    "best_for": [
+      "beginners",
+      "bright sunny rooms",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A classic round cactus with dramatic golden spines that earns its \"barrel\" name as it slowly grows into a bold, globe-shaped specimen. Give it a south- or west-facing window with real direct sun and barely any water, and it'll largely take care of itself.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Asiento_de_suegra_%28Echinocactus_grusonii%29%2C_Jard%C3%ADn_Bot%C3%A1nico%2C_M%C3%BAnich%2C_Alemania%2C_2013-09-08%2C_DD_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Diego Delso. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "christ_thorn",
+    "scientific_name": "Euphorbia milii",
+    "common_name": "Christ thorn",
+    "also_known_as": [
+      "Crown of thorns"
+    ],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "sculptural",
+      "quirky",
+      "statement"
+    ],
+    "best_for": [
+      "beginners",
+      "bright sunny rooms",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A spiny, shrubby succulent that blooms almost year-round in bright sun \u2014 those cheerful little flower clusters (actually bracts) sit atop thorny stems that store water. Genuinely tough and forgiving as long as you don't overwater it and give it a sunny windowsill.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Crown_of_Thorns_Starfish_at_Malapascuas_Island_v._II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Matt Kieffer. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:euphorbia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "white_pothos",
+    "scientific_name": "Epipremnum aureum 'Marble Queen'",
+    "common_name": "White Pothos",
+    "also_known_as": [
+      "Marble Queen"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "trailing",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "trailing displays"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "yellowing leaves"
+    ],
+    "short_description": "A variegated pothos with creamy white and green marbled leaves that trails readily from shelves or hanging baskets. One of the most forgiving houseplants around \u2014 it handles neglect well, though the bright variegation needs decent indirect light to stay vivid.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Epipremnum_aureum_31082012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Joydeep. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Epipremnum aureum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "scarlet_star",
+    "scientific_name": "Guzmania lingulata",
+    "common_name": "Scarlet Star",
+    "also_known_as": [
+      "Guzmania Sunnytime"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "tropical",
+      "statement",
+      "sculptural"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "low-effort decor",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A bromeliad with a bold, long-lasting central flower spike that blazes red-orange above a rosette of glossy green leaves. It has a quirky dual watering need \u2014 keep the central cup (vase) filled with fresh water while letting the soil dry out partway, which trips up a lot of new owners.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Guzmania_lingulata_-_5722.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Amada44. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:guzmania",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "weeping_fig",
+    "scientific_name": "Ficus benjamina",
+    "common_name": "Weeping fig",
+    "also_known_as": [
+      "Ficus Tree",
+      "Ficus",
+      "Benjamin Fig"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "classic",
+      "lush"
+    ],
+    "best_for": [
+      "statement floor plants",
+      "bright indirect rooms"
+    ],
+    "failure_modes": [
+      "leaf drop from stress",
+      "overwatering",
+      "root rot"
+    ],
+    "short_description": "A classic indoor tree with gracefully arching branches, famously sensitive to relocation, drafts, and watering changes \u2014 it'll drop leaves whenever its environment shifts. Once it finds its spot and you nail a consistent routine, it settles down and looks stunning.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ficus_elastica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Franz Eugen K\u00f6hler, K\u00f6hler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Ficus benjamina",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "japanese_aralia",
+    "scientific_name": "Fatsia japonica",
+    "common_name": "Japanese Aralia",
+    "also_known_as": [
+      "Fatsia",
+      "Paper Plant"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "lush",
+      "statement",
+      "tropical"
+    ],
+    "best_for": [
+      "low-light homes",
+      "beginners",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "spider mites"
+    ],
+    "short_description": "A bold, large-leafed plant with deeply lobed, glossy leaves that can handle lower light than most big tropicals \u2014 it actually prefers cooler temps and shade over a bright sunny spot. Fairly forgiving as long as you don't let it sit in soggy soil.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Fatsia_japonica.003_-_Zapateira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Fernando Losada Rodr\u00edguez. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Fatsia japonica",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "variegated_euphorbia",
+    "scientific_name": "Euphorbia ammak",
+    "common_name": "Variegated Euphorbia",
+    "also_known_as": [],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "statement",
+      "structural"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "cold draft sensitivity"
+    ],
+    "short_description": "A towering, candelabra-style euphorbia with dramatic variegated green-and-white striped columns \u2014 it can reach ceiling height indoors given enough sun. Treat it like a desert succulent: full direct sun, very infrequent watering, and absolutely no soggy soil.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Starr_071024-0225_Euphorbia_ammak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:euphorbia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "creeping_fig",
+    "scientific_name": "Ficus pumila",
+    "common_name": "Creeping fig",
+    "also_known_as": [
+      "Curl"
+    ],
+    "category": "trailing",
+    "light": "bright",
+    "water": "high",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "trailing",
+      "delicate",
+      "classic"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "trailing displays",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "brown crispy leaf tips",
+      "low humidity damage"
+    ],
+    "short_description": "A fast-growing, fine-leaved creeping vine that clings to surfaces and cascades beautifully from shelves or hanging baskets. Fussier than it looks \u2014 it wants consistent moisture and humidity, and will punish you with crispy leaves if you let it dry out or the air gets too dry.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ficus_elastica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Franz Eugen K\u00f6hler, K\u00f6hler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:ficus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "golden_pothos",
+    "scientific_name": "Epipremnum aureum",
+    "common_name": "Golden Pothos",
+    "also_known_as": [
+      "Devil's Ivy",
+      "Pothos",
+      "Money Plant"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "trailing displays"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "yellowing leaves"
+    ],
+    "short_description": "One of the most forgiving houseplants out there \u2014 Golden Pothos tolerates low light, inconsistent watering, and general neglect better than almost anything else. Its trailing golden-green vines look great in a hanging basket or spilling off a shelf.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Epipremnum_aureum_31082012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Joydeep. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Epipremnum aureum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "fiddleleaf_fig",
+    "scientific_name": "Ficus lyrata",
+    "common_name": "Fiddleleaf Fig",
+    "also_known_as": [
+      "Fiddle Leaf Fig",
+      "FLF",
+      "Fiddle-leaf Fig"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "expert",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "statement",
+      "lush"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "leaf drop from stress",
+      "root rot"
+    ],
+    "short_description": "A dramatic floor tree with huge, violin-shaped leaves that looks stunning \u2014 but is genuinely fussy. It drops leaves at the slightest change in position, drafts, or watering inconsistency, and it punishes overwatering fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ficus_elastica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Franz Eugen K\u00f6hler, K\u00f6hler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:ficus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "english_ivy",
+    "scientific_name": "Hedera helix",
+    "common_name": "English ivy",
+    "also_known_as": [
+      "Gold Baby"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "trailing",
+      "classic",
+      "lush"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "trailing displays",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "spider mites",
+      "overwatering",
+      "root rot"
+    ],
+    "short_description": "A classic cascading vine with lobed leaves that looks great in hanging baskets or spilling off a shelf. Fussier than its reputation suggests \u2014 it's a magnet for spider mites indoors and sulks in dry, heated air.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ivy_Hedera_Red_Brick_Wall_2892px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Photo by and (c)2007 Derek Ramsey (Ram-Man). GFDL 1.2 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Hedera helix",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "herringbone",
+    "scientific_name": "Maranta leuconeura erythroneura",
+    "common_name": "Herringbone",
+    "also_known_as": [
+      "Pink praying plant"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "lush",
+      "delicate",
+      "graphic"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "trailing displays",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "brown crispy leaf tips",
+      "low humidity damage",
+      "spider mites"
+    ],
+    "short_description": "A stunning low-growing prayer plant with vivid red veins on deep green leaves that fold up at night. Fussy about humidity and inconsistent watering \u2014 brown crispy tips are the first sign it's unhappy, and they show up fast in dry indoor air.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Maranta-leuconeura-var.-erythroneura-leaf-scan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Afanasovich. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:maranta",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "monstera",
+    "scientific_name": "Monstera deliciosa",
+    "common_name": "Monstera",
+    "also_known_as": [
+      "Mexican Breadfruit"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "statement",
+      "lush",
+      "tropical"
+    ],
+    "best_for": [
+      "beginners",
+      "statement floor plants",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "Monstera deliciosa is the classic big-leaf houseplant with its iconic split and fenestrated leaves \u2014 it grows fast, makes a real impact, and forgives occasional neglect. It likes bright indirect light to really thrive, but it's one of the few large plants that can adapt to dimmer spots without throwing a fit.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Monstera_deliciosa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Monstera deliciosa",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "baby_rubber_plant",
+    "scientific_name": "Peperomia obtusifolia",
+    "common_name": "Baby rubber plant",
+    "also_known_as": [
+      "Pepper face"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "classic",
+      "lush",
+      "minimalist"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "yellowing leaves"
+    ],
+    "short_description": "A compact, glossy-leaved peperomia that's genuinely forgiving \u2014 it tolerates lower light and irregular watering better than most. The thick, waxy leaves store water, so it's more likely to suffer from overwatering than neglect.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Peperomia_obtusifolia%2C_Conservatorio_bot%C3%A1nico%2C_Fort_Wayne%2C_Indiana%2C_Estados_Unidos%2C_2012-11-12%2C_DD_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Diego Delso. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Peperomia obtusifolia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "pellaea_falcata",
+    "scientific_name": "Pellaea falcata",
+    "common_name": "Pellaea falcata",
+    "also_known_as": [
+      "Sickle Fern",
+      "Australian Cliff Brake"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "delicate",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bathrooms",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A sickle-leafed fern that needs consistent moisture and reasonable humidity to stay happy \u2014 it dislikes drying out completely and will respond with crispy fronds. Better suited to a humid bathroom shelf than a dry living room windowsill.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Pellaea_falcata_Eastwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Poyt448 Peter Woodard. CC0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:pellaea",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "wax_plant",
+    "scientific_name": "Hoya carnosa Exotica",
+    "common_name": "Wax plant",
+    "also_known_as": [
+      "Hoya",
+      "Porcelain Flower",
+      "Wax Vine"
+    ],
+    "category": "trailing",
+    "light": "bright",
+    "water": "low",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "classic",
+      "lush"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "trailing displays",
+      "busy people"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A slow-growing vining plant with thick, waxy leaves and occasional clusters of sweetly scented star-shaped flowers. It's pretty forgiving \u2014 it likes to dry out between waterings and will reward neglect more than fussing.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hoya_carnosa_Exotica1C2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Wayne Boucher. CC BY-SA 2.5 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:hoya",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "madagascar_palm",
+    "scientific_name": "Pachypodium geayi",
+    "common_name": "Madagascar Palm",
+    "also_known_as": [
+      "Pachypodium"
+    ],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "statement",
+      "quirky"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "cold draft sensitivity"
+    ],
+    "short_description": "A striking succulent that looks more like a prehistoric tree than a houseplant \u2014 it develops a thick, spiny silver trunk topped with a tuft of long narrow leaves. It needs a genuinely sunny spot and is surprisingly easy to kill with too much water or cold drafts, despite its tough appearance.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pachypodium_geayi_kz04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "Cross-validated by Perplexity + GPT (Pachypodium toxicity)",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "red_philodendron",
+    "scientific_name": "Philodendron erubescens",
+    "common_name": "Red Philodendron",
+    "also_known_as": [
+      "Imperial Red"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A bold, upright philodendron with deep burgundy-red leaves that hold their color best in bright indirect light. It's forgiving enough for beginners as long as you don't let it sit in soggy soil.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Fleur_de_Philodendron_erubescens_%28face%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Opsylac. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:philodendron",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "variegated_lily_turf",
+    "scientific_name": "Liriope muscari Variegata",
+    "common_name": "Variegated lily turf",
+    "also_known_as": [
+      "Variegated Liriope",
+      "Big Blue Lilyturf",
+      "Monkey Grass"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "soft",
+      "classic",
+      "lush"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A grass-like groundcover with arching green-and-cream striped leaves that brings a soft, meadow-like texture indoors. It's pretty forgiving \u2014 tolerates lower light better than most variegated plants and just needs you to avoid letting it sit in soggy soil.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Liriope_muscari_Variegata_0zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Photo by David J. Stang. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:liriope",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "velvet_leaf_vine",
+    "scientific_name": "Philodendron micans",
+    "common_name": "Velvet leaf vine",
+    "also_known_as": [
+      "Velvet Philodendron",
+      "Philodendron Micans",
+      "Micans"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "lush",
+      "soft"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "trailing displays"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A vining philodendron with heart-shaped leaves covered in a soft, iridescent velvet texture that shifts from bronze to deep green. It's forgiving and fast-growing, though it'll tell you when humidity is too low with crispy edges.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Philodendron_giganteum03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Lin\u00e91. CC BY 2.5 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:philodendron",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "elephant_foot",
+    "scientific_name": "Nolina recurvata",
+    "common_name": "Elephant foot",
+    "also_known_as": [
+      "Pony tail"
+    ],
+    "category": "succulent",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "quirky",
+      "statement"
+    ],
+    "best_for": [
+      "beginners",
+      "busy people",
+      "bright sunny rooms"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A drought-adapted plant with a swollen trunk base that stores water, topped with a fountain of long, strappy leaves. Genuinely forgiving \u2014 it thrives on neglect, handles missed waterings easily, and loves a sunny spot.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Beaucarnea_recurvata%2C_Ocampo%2C_Tamaulipas%2C_Mexico_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: juancruzado. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:nolina",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "lemon_lime_philodendron",
+    "scientific_name": "Philodendron hederaceum 'Lemon Lime'",
+    "common_name": "Lemon Lime Philodendron",
+    "also_known_as": [
+      "Moonlight"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "lush",
+      "tropical"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "trailing displays"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A fast-growing, vining philodendron with chartreuse-to-lime green heart-shaped leaves that brighten up any shelf or hanging basket. It's genuinely forgiving \u2014 it'll tolerate some neglect and bounce back from most beginner mistakes as long as you don't keep its roots soggy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Philodendron_hederaceum%2C_Singapore_Botanic_Gardens_%28141542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Moheen Reeyad. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Philodendron hederaceum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "moth_orchid",
+    "scientific_name": "Phalaenopsis amabilis",
+    "common_name": "Moth Orchid",
+    "also_known_as": [
+      "Phalaenopsis",
+      "Phal",
+      "Phalaenopsis Orchid"
+    ],
+    "category": "flowering",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "delicate",
+      "classic",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "beginners",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "The most popular orchid for a reason \u2014 it blooms for months and forgives inconsistent watering better than most orchids. The catch is it hates sitting in soggy bark mix, so root rot from overwatering is the number-one killer.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Phalaenopsis_cultivar_FR_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: JLPC. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:phalaenopsis",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "chinese_hibiscus",
+    "scientific_name": "Hibiscus rosa sinensis",
+    "common_name": "Chinese hibiscus",
+    "also_known_as": [
+      "Hawaiian Hibiscus",
+      "Hibiscus",
+      "Tropical Hibiscus",
+      "Shoeblack Plant"
+    ],
+    "category": "flowering",
+    "light": "direct",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "tropical",
+      "statement",
+      "lush"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "humidity lovers",
+      "bathrooms"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "spider mites",
+      "leaf drop from stress"
+    ],
+    "short_description": "A sun-hungry flowering shrub that produces big, showy blooms when it gets at least 6 hours of direct sun and consistent moisture. It's fussy about changes \u2014 moving it, cold drafts, or letting it dry out will trigger bud and leaf drop fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Hibiscus_petal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Nvineeth. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:hibiscus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "boston_fern",
+    "scientific_name": "Nephrolepis exaltata",
+    "common_name": "Boston fern",
+    "also_known_as": [
+      "Sword fern"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "delicate",
+      "trailing"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "bathrooms",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "underwatering",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A classic lush fern with long, arching fronds that looks stunning in a hanging basket \u2014 but it's fussy about humidity and consistent moisture. If your home is dry or you forget to water, it'll shed fronds fast and go crispy at the tips.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nephrolepis_exaltata_Whitmanii_0zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Photo by David J. Stang. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:nephrolepis",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "kentia_palm",
+    "scientific_name": "Howea forsteriana",
+    "common_name": "Kentia palm",
+    "also_known_as": [
+      "Paradise palm"
+    ],
+    "category": "palm",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "tropical",
+      "lush",
+      "statement"
+    ],
+    "best_for": [
+      "statement floor plants",
+      "bright sunny rooms",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "One of the most elegant palms you can grow indoors \u2014 the Kentia has long, arching fronds and handles lower light better than almost any other palm. It's slow-growing and pricey, so don't rush the watering: it wants consistent moisture but will rot if the roots sit wet.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Howea_forsteriana_Lord_Howe_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Black Diamond Images. CC BY 2.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Howea forsteriana",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "emerald_gem",
+    "scientific_name": "Homalomena 'Emerald Gem'",
+    "common_name": "Emerald Gem",
+    "also_known_as": [
+      "Homalomena"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "lush",
+      "classic",
+      "structural"
+    ],
+    "best_for": [
+      "low-light homes",
+      "office spaces",
+      "beginners"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A compact, glossy-leaved tropical that handles lower light better than most and stays tidy on a desk or shelf. It's fussier than it looks \u2014 it really dislikes overwatering and dry air, so root rot and crispy edges are the two most common ways it fails.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Starr_070906-8753_Homalomena_sp..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "Cross-validated by GPT (Homalomena/aroid toxicity)",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "tricolor_peperomia",
+    "scientific_name": "Peperomia clusiifolia",
+    "common_name": "Tricolor Peperomia",
+    "also_known_as": [
+      "Rainbow Peperomia"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "classic",
+      "lush",
+      "graphic"
+    ],
+    "best_for": [
+      "beginners",
+      "small spaces",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A compact peperomia with green, cream, and red-edged leaves that earns its \"tricolor\" name. Pretty forgiving overall, but like all peperomias it hates sitting in soggy soil \u2014 root rot from overwatering is the most common way this one dies.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peperomia_clusiifolia_2011-01-17_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: James Steakley. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Peperomia clusiifolia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "blushing_bromeliad",
+    "scientific_name": "Neoregelia carolinae",
+    "common_name": "Blushing Bromeliad",
+    "also_known_as": [
+      "Neoregelia"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "tropical",
+      "graphic",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "humidity lovers",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "fungal issues"
+    ],
+    "short_description": "A striking rosette bromeliad whose central leaves flush deep pink or red at bloom time \u2014 that's the \"blushing\" part. It has a central cup (tank) that needs to be kept filled with fresh water and flushed regularly, while the soil should be barely moist; getting that balance wrong is where most people trip up.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Neoregelia_carolinae_BotGardBln310505a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:neoregelia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "china_doll",
+    "scientific_name": "Radermachera sinica",
+    "common_name": "China doll",
+    "also_known_as": [
+      "China Doll Plant",
+      "Emerald Tree"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "unknown",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "delicate",
+      "classic"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "leaf drop from stress",
+      "overwatering",
+      "low humidity damage"
+    ],
+    "short_description": "A compact, glossy-leaved plant with finely divided foliage that looks elegant on a desk or side table. Fussy about change \u2014 it will drop leaves dramatically if moved, underwatered, or kept somewhere too dry or dim, so pick a bright, stable spot and stick with it.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Radermachera_sinica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "cretan_brake",
+    "scientific_name": "Pteris cretica Parkeri",
+    "common_name": "Cretan brake",
+    "also_known_as": [
+      "Cretan Brake Fern",
+      "Ribbon Fern"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "delicate",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "bathrooms",
+      "humidity lovers",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A ribbon fern with arching, variegated fronds that tolerates lower light better than most ferns but still demands consistently moist soil and decent humidity. Let it dry out even once and you'll see crispy tips fast \u2014 it's fussy about water and humidity but manageable if you stay on top of both.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pteris_vittata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Franz Xaver. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:pteris",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "majesty_palm",
+    "scientific_name": "Ravenea rivularis",
+    "common_name": "Majesty palm",
+    "also_known_as": [
+      "Majestic Palm"
+    ],
+    "category": "palm",
+    "light": "bright",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "expert",
+    "size": "large",
+    "vibe": [
+      "tropical",
+      "lush",
+      "statement"
+    ],
+    "best_for": [
+      "statement floor plants",
+      "bright sunny rooms",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "brown crispy leaf tips",
+      "spider mites"
+    ],
+    "short_description": "A dramatic, arching palm that looks like it belongs in a resort lobby \u2014 but it's notoriously fussy indoors. It needs consistently moist soil, very bright light, and decent humidity, and it will still protest with brown leaf tips if any of those slip.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ravenea_rivularis-IMG_0468.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: C T Johansson. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Ravenea rivularis",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "fabian_aralia",
+    "scientific_name": "Polyscias scutellaria",
+    "common_name": "Fabian Aralia",
+    "also_known_as": [
+      "Red Aralia"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "leaf drop from stress",
+      "overwatering",
+      "cold draft sensitivity"
+    ],
+    "short_description": "A striking upright shrub with rounded, glossy leaves that develops a woody trunk over time. It's fussy about consistency \u2014 drafts, low humidity, or watering swings will trigger dramatic leaf drop fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Polyscias_balfouriana_2840.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:polyscias",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "silver_ribbon_fern",
+    "scientific_name": "Pteris cretica Albo lineata",
+    "common_name": "Silver Ribbon Fern",
+    "also_known_as": [
+      "Silver Lace Fern",
+      "Variegated Brake Fern"
+    ],
+    "category": "fern",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "delicate",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "bathrooms",
+      "humidity lovers",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A compact fern with arching, ribbon-like fronds striped in green and creamy white. It needs consistent moisture and decent humidity \u2014 let it dry out even once and the tips will go crispy fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pteris_cretica_%27Albo-lineata%27_a1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Jerzy Opio\u0142a. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:pteris",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "staghorn_fern",
+    "scientific_name": "Platycerium bifurcatum",
+    "common_name": "Staghorn fern",
+    "also_known_as": [
+      "Elkhorn Fern"
+    ],
+    "category": "fern",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "statement",
+      "tropical"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "shelf or elevated planters",
+      "hanging baskets"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A genuinely striking fern that grows flat shield fronds and dramatic antler-shaped fertile fronds \u2014 it's often mounted on wood rather than potted. It needs bright indirect light and a careful watering rhythm; let it get close to dry before soaking, or the root ball rots fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Platycerium_bifurcatum_%28Corne_d%27%C3%A9lan%29_-_107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Platycerium bifurcatum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "xanadu_philodendron",
+    "scientific_name": "Philodendron xanadu",
+    "common_name": "Xanadu Philodendron",
+    "also_known_as": [
+      "Xanadu",
+      "Philodendron Xanadu"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "sculptural",
+      "tropical"
+    ],
+    "best_for": [
+      "beginners",
+      "statement floor plants",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A compact, clumping philodendron with deeply lobed, glossy leaves that give it a bold, jungle-y look without the sprawl of vining types. Forgiving enough for beginners \u2014 it tolerates some neglect and adapts to lower light better than most philodendrons.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Philodendron_xanadu_AK1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Piwaiwaka. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:philodendron",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "balfour_aralia",
+    "scientific_name": "Polyscias pinnatta",
+    "common_name": "Balfour aralia",
+    "also_known_as": [
+      "Aralia Balfouriana",
+      "Lemon Lime"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "expert",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "lush",
+      "tropical"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "leaf drop from stress",
+      "overwatering",
+      "cold draft sensitivity"
+    ],
+    "short_description": "Balfour aralia is a striking, slow-growing shrub with rounded, scalloped leaflets that develops a woody trunk over time \u2014 but it's fussy. It drops leaves dramatically in response to cold drafts, inconsistent watering, or being moved, so pick a bright, stable spot and leave it there.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Polyscias_balfouriana_2815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:polyscias",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "snake_plant",
+    "scientific_name": "Sansevieria trifasciata 'Laurentii'",
+    "common_name": "Snake plant",
+    "also_known_as": [
+      "Mother-in-law's Tongue",
+      "Sansevieria",
+      "Saint George's Sword"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "minimalist",
+      "structural"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "busy people"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "One of the most forgiving houseplants around \u2014 it tolerates low light, irregular watering, and general neglect better than almost anything else. The main way to kill it is overwatering, especially in a pot without drainage.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Mokkie. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:sansevieria",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "african_fern_pine",
+    "scientific_name": "Podocarpus gracilior",
+    "common_name": "African fern pine",
+    "also_known_as": [
+      "Buddhist pine"
+    ],
+    "category": "tree-floor",
+    "light": "direct",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "structural",
+      "soft",
+      "classic"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "underwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A graceful, slow-growing evergreen tree with fine, feathery needles that give it a soft, almost wispy look \u2014 more elegant than a typical houseplant. It wants a genuinely sunny spot and consistent moisture, and will punish you with crispy tips if the air is too dry or watering is irregular.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Podocarpus_gracilior1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:podocarpus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "bird_s_nest_sansevieria",
+    "scientific_name": "Sansevieria trifasciata 'Hahnii'",
+    "common_name": "Bird's Nest Sansevieria",
+    "also_known_as": [
+      "Snake plant"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "sculptural",
+      "minimalist",
+      "graphic"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "busy people"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A compact, rosette-forming snake plant that stays low and dense rather than shooting up tall blades \u2014 genuinely one of the most forgiving plants you can own. It tolerates neglect, low light, and irregular watering far better than most, and the worst thing you can do is water it too often.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sansevieria_trifasciata_%2836268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Nativeplants garden. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Sansevieria trifasciata",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "chicken_gizard_aralia",
+    "scientific_name": "Polyscias crispata",
+    "common_name": "Chicken gizard aralia",
+    "also_known_as": [
+      "Parsley Panax",
+      "Curly Aralia"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "quirky",
+      "lush"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "office spaces",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "leaf drop from stress",
+      "overwatering",
+      "cold draft sensitivity"
+    ],
+    "short_description": "A compact, slow-growing aralia with heavily ruffled, crinkled leaves that give it an unusually textured, quirky look. It's fussier than it appears \u2014 it sulks and drops leaves if moved around, chilled by drafts, or overwatered, so find it a bright, stable spot and leave it alone.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Polyscias_balfouriana_2815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:polyscias",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "pygmy_date_palm",
+    "scientific_name": "Phoenix roebelenii",
+    "common_name": "Pygmy Date Palm",
+    "also_known_as": [
+      "Dwarf Date Palm",
+      "Miniature Date Palm"
+    ],
+    "category": "palm",
+    "light": "direct",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A compact, graceful palm with arching feathery fronds that works well as a floor plant when given a sunny spot. It wants consistent moisture and plenty of direct light \u2014 let either slip and you'll see brown tips or a decline pretty quickly.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Starr_070124-3839_Phoenix_roebelenii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:phoeni",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "ming_aralia",
+    "scientific_name": "Polyscias fruticosa Elegans",
+    "common_name": "Ming Aralia",
+    "also_known_as": [
+      "Parsley panax"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "expert",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "delicate",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "leaf drop from stress",
+      "cold draft sensitivity",
+      "low humidity damage"
+    ],
+    "short_description": "Ming Aralia has intricate, finely cut feathery foliage on woody, gnarled stems that give it a bonsai-like elegance. It's notoriously fussy \u2014 it drops leaves aggressively at the slightest provocation: a cold draft, a move to a new spot, inconsistent watering, or dry air.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Polyscias_balfouriana_2815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:polyscias",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "lacy_tree_philodendron",
+    "scientific_name": "Philodendron selloum",
+    "common_name": "Lacy tree philodendron",
+    "also_known_as": [],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "lush",
+      "statement",
+      "tropical"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "low humidity damage",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A dramatic, deeply lobed floor plant that gets genuinely large over time \u2014 we're talking 4\u20135 feet wide. It's more forgiving than fussier tropicals, but it needs bright indirect light and decent humidity to avoid crispy leaf edges.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Thaumatophyllum_bipinnatifidum_syn._Philodendron_bipinnatifidum_syn._Philodendron_selloum_2021-06-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Agnieszka Kwiecie\u0144, Nova. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Philodendron selloum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "lady_palm",
+    "scientific_name": "Rhapis excelsa",
+    "common_name": "Lady palm",
+    "also_known_as": [
+      "Lady Finger Palm",
+      "Bamboo Palm"
+    ],
+    "category": "palm",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "yes",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "lush",
+      "tropical"
+    ],
+    "best_for": [
+      "statement floor plants",
+      "humidity lovers",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "spider mites"
+    ],
+    "short_description": "A clumping palm with fan-shaped, deeply divided leaves on slender bamboo-like stems \u2014 one of the few palms that genuinely tolerates lower indoor light. It wants consistent moisture and humidity, so it punishes neglect with crispy brown tips, but rewards steady care with slow, graceful growth.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Eric in SF. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:rhapis",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "heartleaf_philodendron",
+    "scientific_name": "Philodendron hederaceum",
+    "common_name": "Heartleaf Philodendron",
+    "also_known_as": [
+      "Sweetheart plant",
+      "Heartleaf philodendron",
+      "Cordatum vine"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "lush",
+      "classic"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "trailing displays"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "One of the most forgiving houseplants you can own \u2014 it trails readily, tolerates some neglect, and bounces back from imperfect watering better than most. Give it bright indirect light for best growth, but it'll manage in medium light without much fuss.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Philodendron_hederaceum%2C_Singapore_Botanic_Gardens_%28141542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Moheen Reeyad. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Philodendron hederaceum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "african_evergreen",
+    "scientific_name": "Syngonium podophyllum",
+    "common_name": "African evergreen",
+    "also_known_as": [
+      "Arrowhead vine",
+      "Goosefoot plant",
+      "White Lightning"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "lush",
+      "trailing",
+      "soft"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "low-light homes"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "An adaptable, fast-growing viner with arrowhead-shaped leaves that starts compact on a shelf and eventually trails or climbs. It handles lower light better than most, forgives occasional missed waterings, and is one of the more genuinely beginner-friendly tropical plants out there.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Syngonium_podophyllum_var.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: GinyLee987. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Syngonium podophyllum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "pink_quill",
+    "scientific_name": "Tillandsia cyanea",
+    "common_name": "Pink quill",
+    "also_known_as": [
+      "Air Plant",
+      "Pink Quill Plant"
+    ],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "unknown",
+    "difficulty": "medium",
+    "size": "small",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "quirky"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "small spaces",
+      "shelf or elevated planters"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A compact bromeliad that produces a vivid, paddle-shaped pink bloom spike with violet flowers \u2014 one of the most striking small plants you can put on a shelf. It's fussier than it looks: it needs bright indirect light, careful watering (let the soil half-dry between waterings), and decent humidity to thrive long-term.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Tillandsia_cyanea1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Kurt St\u00fcber [1]. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:no_match",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "indian_kale",
+    "scientific_name": "Xanthosoma lindenii",
+    "common_name": " Indian kale",
+    "also_known_as": [],
+    "category": "tropical",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "humidity lovers",
+      "bright sunny rooms",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "low humidity damage",
+      "overwatering",
+      "root rot"
+    ],
+    "short_description": "A bold tropical with large, arrow-shaped leaves featuring striking white veining on deep green. It craves humidity and consistent (but not soggy) moisture \u2014 let it dry halfway before watering, and keep it away from dry air and cold drafts.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Xanthosoma_lindenii_5zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Photo by David J. Stang. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "Cross-validated by family heuristic (Araceae aroid, calcium oxalate crystals).",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "false_aralia",
+    "scientific_name": "Schefflera elegantissima",
+    "common_name": "False aralia",
+    "also_known_as": [
+      "Spider Aralia",
+      "Threadleaf Aralia",
+      "Finger Aralia"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright indirect rooms",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "low humidity damage",
+      "spider mites"
+    ],
+    "short_description": "False aralia has deeply serrated, finger-like dark green leaves that give it a dramatic, almost gothic look as a floor plant. It's fussy about humidity and hates dry indoor air, so it needs more attention than it looks like it does.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Schefflera_elegantissima.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Eric in SF. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:schefflera",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "burro_tail",
+    "scientific_name": "Sedum morganianum",
+    "common_name": "Burro tail",
+    "also_known_as": [
+      "Donkey Tail",
+      "Burro's Tail",
+      "Donkey's Tail",
+      "Sedum"
+    ],
+    "category": "trailing",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "yes",
+    "difficulty": "easy",
+    "size": "small",
+    "vibe": [
+      "trailing",
+      "sculptural",
+      "quirky"
+    ],
+    "best_for": [
+      "hanging baskets",
+      "bright sunny rooms",
+      "busy people"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A drought-tough succulent with long, bead-like stems that cascade beautifully from a hanging basket or shelf. Give it a sunny south- or west-facing window and forget to water it \u2014 that's genuinely the right strategy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sedum_morganianum_%28donkey%27s_tail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Paradoxurus. CC0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Sedum morganianum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "satin_pothos",
+    "scientific_name": "Scindapsus pictus",
+    "common_name": "Satin Pothos",
+    "also_known_as": [
+      "Satin pothos",
+      "Devils ivy"
+    ],
+    "category": "trailing",
+    "light": "medium",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "trailing",
+      "lush",
+      "soft"
+    ],
+    "best_for": [
+      "beginners",
+      "hanging baskets",
+      "trailing displays"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "low humidity damage"
+    ],
+    "short_description": "A forgiving trailing plant with velvety, dark green leaves splashed with silvery-grey markings. It handles some neglect well and looks great in a hanging basket or trailing off a shelf, though it appreciates decent indirect light to keep its variegation looking sharp.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Scindapsus_pictus_3358.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:scientific:Scindapsus pictus",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "umbrella_plant",
+    "scientific_name": "Schefflera actinophylla Amate",
+    "common_name": "Umbrella Plant",
+    "also_known_as": [
+      "Schefflera",
+      "Octopus Tree"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "lush",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "statement floor plants",
+      "bright sunny rooms",
+      "low-effort decor"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "leaf drop from stress"
+    ],
+    "short_description": "A bold, umbrella-canopied floor plant that can grow into an impressive indoor tree with the right light. It's fairly forgiving once settled, but hates being moved and will drop leaves dramatically if it doesn't like its spot.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Collared_lory_%28Vini_solitaria%29_on_octopus_tree_%28Heptapleurum_actinophyllum%29_Colo-I-Suva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Charles J. Sharp. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:schefflera",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "hawaiian_elf",
+    "scientific_name": "Schefflera arboricola",
+    "common_name": "Hawaiian elf",
+    "also_known_as": [
+      "Parasol plant"
+    ],
+    "category": "tree-floor",
+    "light": "bright",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "lush",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "statement floor plants",
+      "bright sunny rooms",
+      "office spaces"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "spider mites"
+    ],
+    "short_description": "A compact, multi-stemmed shrub-tree with glossy, umbrella-like leaf clusters that can grow into a serious floor plant over time. It wants bright indirect light and consistent watering \u2014 let it get too dark or too soggy and it will drop leaves fast.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Schefflera_arboricola%2C_vrugte%2C_a%2C_Pretoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: JMK. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:schefflera",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "peace_lily",
+    "scientific_name": "Spathiphyllum wallisii",
+    "common_name": "Peace lily",
+    "also_known_as": [
+      "Emerald Swirl"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "high",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "medium",
+    "vibe": [
+      "lush",
+      "classic",
+      "soft"
+    ],
+    "best_for": [
+      "low-light homes",
+      "beginners",
+      "bathrooms"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A forgiving tropical that tolerates lower light better than most, and tells you when it's thirsty by drooping dramatically \u2014 then bounces back quickly after a drink. The catch is it wants consistently moist (not soggy) soil, so it punishes both neglect and heavy-handed watering.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Peace_lily_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: W.carter. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:spathiphyllum",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "white_bird_of_paradise",
+    "scientific_name": "Strelitzia nicolai",
+    "common_name": "White bird of paradise",
+    "also_known_as": [
+      "Bird of Paradise",
+      "White BoP"
+    ],
+    "category": "tree-floor",
+    "light": "direct",
+    "water": "moderate",
+    "pet_safe": "no",
+    "difficulty": "medium",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "tropical",
+      "statement"
+    ],
+    "best_for": [
+      "bright sunny rooms",
+      "statement floor plants",
+      "humidity lovers"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "brown crispy leaf tips"
+    ],
+    "short_description": "A dramatic floor plant with huge, paddle-shaped leaves that can reach ceiling height indoors. It needs a genuinely sunny spot \u2014 a south or west-facing window \u2014 and will sulk, stop growing, or develop crispy leaf edges without enough light and humidity.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Strelitzia_larger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Scott Bauer, USDA. Public domain via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:strelitzia",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "zz_plant",
+    "scientific_name": "Zamioculcas zamiifolia",
+    "common_name": "Zz plant",
+    "also_known_as": [
+      "ZZ Plant",
+      "Zanzibar Gem",
+      "Aroid Palm"
+    ],
+    "category": "tropical",
+    "light": "medium",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "medium",
+    "vibe": [
+      "sculptural",
+      "minimalist",
+      "classic"
+    ],
+    "best_for": [
+      "beginners",
+      "low-light homes",
+      "busy people"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "yellowing leaves"
+    ],
+    "short_description": "One of the toughest houseplants around \u2014 it stores water in thick rhizomes underground, so it handles neglect and low light far better than most. The main way people kill it is by overwatering; when in doubt, wait another week.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zamioculcas_zamifolia-2-hanuman_temple-muluvi-yercaud-salem-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: Yercaud-elango. CC BY-SA 4.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "Cross-validated by Perplexity + GPT, citing Pet Poison Helpline",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  },
+  {
+    "id": "spineless_yucca",
+    "scientific_name": "Yucca elephantipes",
+    "common_name": "Spineless yucca",
+    "also_known_as": [
+      "Palm lily"
+    ],
+    "category": "tree-floor",
+    "light": "direct",
+    "water": "low",
+    "pet_safe": "no",
+    "difficulty": "easy",
+    "size": "large",
+    "vibe": [
+      "sculptural",
+      "structural",
+      "statement"
+    ],
+    "best_for": [
+      "beginners",
+      "bright sunny rooms",
+      "statement floor plants"
+    ],
+    "failure_modes": [
+      "overwatering",
+      "root rot",
+      "leaf scorch"
+    ],
+    "short_description": "A bold, trunk-forming desert plant that thrives in a sunny spot and forgives neglect \u2014 drought tolerance is its superpower. The Kaggle watering guidance is misleading; Yucca elephantipes wants to dry out well between waterings, not stay consistently moist, or root rot will follow quickly.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Yucca_gigantea_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
+    "provenance": {
+      "light": "llm:claude-sonnet-4-6",
+      "pet_safe": "aspca:genus:yucca",
+      "vibe": "llm:claude-sonnet-4-6",
+      "image_url": "wikimedia_commons"
+    }
+  }
+]

@@ -84,10 +84,12 @@ Tracked in memory or session storage on the visitor's browser. Resets when they 
 
 |Limit|Value|
 |---|---|
-|Max messages per session|12|
-|Max conversation turns before forced reset|12|
+|Max messages per session|20|
+|Max conversation turns before forced reset|20|
 
-When hit: the chat shows "We've covered a lot here - feel free to refresh to start a new conversation." The input field disables. No more API calls happen.
+Revised from 12 → 20 on 2026-05-08: a robust plant recommendation session can go 15-20 turns as users explore plants and pivot scenarios, so 12 was too tight.
+
+When hit: the chat shows the agent-voice copy from the "Graceful degradation" section below. The input field disables. No more API calls happen.
 
 ### Layer 3: Per-IP rate limits
 
@@ -106,8 +108,10 @@ Daily and monthly caps tracked server-side. The simplest implementation: a count
 
 |Cap|Value|
 |---|---|
-|Daily API spend|$5|
+|Daily API spend|$15|
 |Monthly API spend|$50|
+
+Revised from $5 → $15 daily on 2026-05-08: phase-1 family pressure-testing needs generous headroom so nobody hits a cap mid-conversation during a busy evening with concurrent users. Phase-2 recruiter traffic will be far lower volume; $15/day will rarely be approached. The Anthropic console cap is the true backstop, so the in-app caps are soft guardrails. Note: $15/day × 4 days ≈ monthly cap, so the daily cap is the *active* limit and the monthly cap is the *backstop* in practice.
 
 When approaching cap (e.g., 80%): log a warning so Mona can see it. When cap hit: the API endpoint returns a static "demo is taking a breather" message and skips the LLM call entirely. No new charges accrue.
 
@@ -153,14 +157,16 @@ The `demo_key` is checked against an environment variable. If it matches, the re
 
 The principle: every limit hit should produce a coherent, intentional experience, not a broken-looking error.
 
+All cap-hit copy is rendered as a **final assistant message** in the chat (same styling as a regular agent turn — including the `border-t border-stone-200` divider) rather than as a banner or modal. This keeps the user in the conversational frame and reuses the existing styling. After the message renders, the input field is disabled so the user can't keep trying.
+
 |Scenario|What happens|What user sees|
 |---|---|---|
 |Token limit per response|Agent truncates and offers to continue|"...want me to keep going?"|
 |Tool call cap per message|Agent returns what it has|Note in response: "I looked at the top matches; let me know if you want me to dig further"|
-|Session message cap|Input disables|"We've covered a lot here. Refresh to start fresh."|
-|Per-IP rate limit|API returns 429|"Rate limited - try again in an hour. Or you saw enough?"|
-|Daily budget cap|API returns static response|"The demo's taking a breather - try again tomorrow."|
-|Monthly budget cap|API returns static response|Same as above with "next month" wording|
+|Session message cap (20)|Final assistant message + input disabled|"We've covered a lot of ground in this conversation! 🌱 To keep things snappy, I cap each session at 20 messages. Refresh to start a fresh chat — I won't remember the previous one, but I'll be ready to help you find the right plant from scratch."|
+|Per-IP rate limit (20/hr)|Final assistant message + input disabled|"Whoa, you're moving fast! 🌱 I cap each visitor at ~20 questions per hour to keep this demo affordable. Take a quick break and come back in a bit — I'll still be here."|
+|Daily budget cap ($15)|Final assistant message + input disabled|"Looks like the plant sidekick has been busy today! 🌿 This is a portfolio demo with a daily budget cap, and we've hit it. Come back tomorrow and I'll be ready to chat again."|
+|Monthly budget cap ($50)|Final assistant message + input disabled|"The plant matchmaking machine needs a rest 🪴 We've hit this month's demo budget. If you're a recruiter or hiring manager who'd like to see more, reach me at [linkedin.com/in/monabrahmbhatt](https://linkedin.com/in/monabrahmbhatt) — happy to share a walkthrough."|
 |Anthropic API outage|API returns error|"Something's off on the AI side. Try refreshing in a minute."|
 
 None of these should look like crashes. All should feel intentional.

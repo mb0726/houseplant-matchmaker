@@ -1,0 +1,36 @@
+{
+  "name": "houseplant-matchmaker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "pipeline": "tsx scripts/enrich-plants.ts",
+    "pipeline:filter": "tsx scripts/01_filter.ts",
+    "pipeline:aspca": "tsx scripts/02_aspca.ts",
+    "pipeline:images": "tsx scripts/03_images.ts",
+    "pipeline:enrich": "tsx scripts/04_enrich.ts",
+    "pipeline:merge": "tsx scripts/05_merge.ts",
+    "test": "node --import tsx --test lib/tools.test.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.95.0",
+    "@upstash/redis": "^1.38.0",
+    "next": "^16.2.5",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.4",
+    "@types/node": "^22.9.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "tailwindcss": "^4.2.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  }
+}
