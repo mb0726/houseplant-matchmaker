@@ -24,7 +24,12 @@ import type { Plant, ToolResult, TraceEntry, AgentUsage } from './types.ts';
 
 export const MODEL = 'claude-sonnet-4-6';
 export const MAX_ITERATIONS = 8;
-export const MAX_TOOL_CALLS_PER_TURN = 6;
+// Bumped from 6 → 10 on 2026-05-09 after a turn that searched 5 candidate
+// plants by name_query and could only fetch details for 1 before hitting the
+// cap, leaving the agent referencing un-rendered plants in chips. 10 fits a
+// typical 5-search + 3-fetch flow with headroom. The real cost guardrail is
+// the daily budget cap (Layer 4), not this per-turn limit.
+export const MAX_TOOL_CALLS_PER_TURN = 10;
 export const MAX_OUTPUT_TOKENS = 800;
 
 // --- System prompt ---
@@ -343,6 +348,71 @@ function sanitizeMessages(
   ];
 }
 
+// Reliability backstop: every assistant turn the UI shows must come with
+// chips. The model normally calls set_followups itself; when it doesn't
+// (because it ended without finishing the response, or hit a cap, or returned
+// some other unexpected stop_reason), we make ONE forced call here so the
+// chip row is never empty.
+//
+// Returns the new chips (or the input array unchanged on failure). Mutates
+// `usage` and `trace` to reflect the side query. Sanitizes `messages` first
+// so any unresolved tool_use blocks from a cap-hit don't poison the request.
+async function ensureChips(
+  client: Anthropic,
+  messages: Anthropic.MessageParam[],
+  currentChips: string[],
+  usage: AgentUsage,
+  trace: TraceEntry[],
+): Promise<string[]> {
+  if (currentChips.length > 0) return currentChips;
+  // Sonnet 4.6 rejects API calls that end on an assistant message, so append
+  // a synthetic user nudge. We do NOT save this nudge to the returned
+  // `messages` history — it's local to this side query.
+  const nudgedMessages: Anthropic.MessageParam[] = [
+    ...sanitizeMessages(messages),
+    {
+      role: 'user',
+      content: 'Now call set_followups with chips for your last response.',
+    },
+  ];
+  try {
+    const forced = await client.messages.create({
+      model: MODEL,
+      max_tokens: 256,
+      system: [
+        { type: 'text', text: SYSTEM_PROMPT, cache_control: { type: 'ephemeral' } },
+      ],
+      tools: TOOL_DEFS,
+      tool_choice: { type: 'tool', name: 'set_followups' },
+      messages: nudgedMessages,
+    });
+    usage.input_tokens += forced.usage.input_tokens;
+    usage.output_tokens += forced.usage.output_tokens;
+    usage.cache_creation_input_tokens += forced.usage.cache_creation_input_tokens ?? 0;
+    usage.cache_read_input_tokens += forced.usage.cache_read_input_tokens ?? 0;
+    for (const block of forced.content) {
+      if (block.type === 'tool_use' && block.name === 'set_followups') {
+        const input = block.input as { chips?: unknown };
+        if (Array.isArray(input.chips)) {
+          const chips = input.chips.filter((c): c is string => typeof c === 'string');
+          trace.push({
+            tool: 'set_followups',
+            input: { chips },
+            summary: 'ok (forced fallback)',
+            ok: true,
+          });
+          return chips;
+        }
+      }
+    }
+  } catch (e) {
+    // Best-effort: ship without chips if the forced call fails. The UI handles
+    // empty chip arrays gracefully (the row just doesn't render).
+    console.error('[agent] forced fallback failed:', (e as Error).message);
+  }
+  return currentChips;
+}
+
 // --- The loop ---
 
 export async function runAgent(
@@ -397,55 +467,7 @@ export async function runAgent(
     if (iterText) responseChunks.push(iterText);
 
     if (res.stop_reason === 'end_turn') {
-      // Reliability backstop: if the agent finished without calling set_followups,
-      // make a single forced call so the UI always has chips. Sonnet sometimes
-      // prefers to embed answer options as markdown bullets in prose despite
-      // the prompt — forcing the tool fixes this deterministically.
-      if (suggestedChips.length === 0) {
-        // Sonnet 4.6 rejects API calls that end on an assistant message, so
-        // append a synthetic user nudge. We do NOT save this nudge to the
-        // returned `messages` history — it's local to this side query.
-        const nudgedMessages: Anthropic.MessageParam[] = [
-          ...messages,
-          {
-            role: 'user',
-            content: 'Now call set_followups with chips for your last response.',
-          },
-        ];
-        try {
-          const forced = await client.messages.create({
-            model: MODEL,
-            max_tokens: 256,
-            system: [
-              { type: 'text', text: SYSTEM_PROMPT, cache_control: { type: 'ephemeral' } },
-            ],
-            tools: TOOL_DEFS,
-            tool_choice: { type: 'tool', name: 'set_followups' },
-            messages: nudgedMessages,
-          });
-          usage.input_tokens += forced.usage.input_tokens;
-          usage.output_tokens += forced.usage.output_tokens;
-          usage.cache_creation_input_tokens += forced.usage.cache_creation_input_tokens ?? 0;
-          usage.cache_read_input_tokens += forced.usage.cache_read_input_tokens ?? 0;
-          for (const block of forced.content) {
-            if (block.type === 'tool_use' && block.name === 'set_followups') {
-              const input = block.input as { chips?: unknown };
-              if (Array.isArray(input.chips)) {
-                suggestedChips = input.chips.filter((c): c is string => typeof c === 'string');
-                trace.push({
-                  tool: 'set_followups',
-                  input: { chips: suggestedChips },
-                  summary: 'ok (forced fallback)',
-                  ok: true,
-                });
-              }
-            }
-          }
-        } catch (e) {
-          // Best-effort: ship the response without chips if the forced call fails.
-          console.error('[agent] forced fallback failed:', (e as Error).message);
-        }
-      }
+      suggestedChips = await ensureChips(client, messages, suggestedChips, usage, trace);
       return {
         response: responseChunks.join('\n\n'),
         trace,
@@ -466,6 +488,7 @@ export async function runAgent(
       // set_followups doesn't pull data so it doesn't count.
       const newCountable = toolUses.filter((t) => COUNTABLE_TOOLS.has(t.name)).length;
       if (totalToolCalls + newCountable > MAX_TOOL_CALLS_PER_TURN) {
+        suggestedChips = await ensureChips(client, messages, suggestedChips, usage, trace);
         return {
           response:
             responseChunks.join('\n\n') ||
@@ -515,6 +538,7 @@ export async function runAgent(
     }
 
     // Any other stop_reason (max_tokens, refusal, etc.) — return what we have.
+    suggestedChips = await ensureChips(client, messages, suggestedChips, usage, trace);
     return {
       response:
         responseChunks.join('\n\n') ||
@@ -530,6 +554,7 @@ export async function runAgent(
 
   // Fell off the iteration cap. Return a graceful response, prefixed with any
   // text the agent did accumulate so we don't lose its work.
+  suggestedChips = await ensureChips(client, messages, suggestedChips, usage, trace);
   return {
     response:
       responseChunks.join('\n\n') ||
