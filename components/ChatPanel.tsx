@@ -351,7 +351,7 @@ export function ChatPanel({ messages, isThinking, inputDisabled, onSend }: Props
           value={draft}
           onChange={(e) => setDraft(e.target.value)}
           onKeyDown={handleKey}
-          placeholder="Tell me about your space…"
+          placeholder="Write a message…"
           disabled={inputLocked}
           rows={1}
           className="flex-1 resize-none px-4 py-2 rounded-xl border border-stone-300 focus:outline-none focus:border-stone-500 disabled:opacity-50"
