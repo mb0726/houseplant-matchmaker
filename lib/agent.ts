@@ -483,6 +483,9 @@ export async function runAgent(
       const toolUses = res.content.filter(
         (b): b is Anthropic.ToolUseBlock => b.type === 'tool_use',
       );
+      console.log(
+        `[agent] iter ${iter}: ${toolUses.length} tool_use block(s): ${toolUses.map((t) => t.name).join(', ')}`,
+      );
 
       // Hard cap on tool calls per user turn — but only counting "real" tools.
       // set_followups doesn't pull data so it doesn't count.

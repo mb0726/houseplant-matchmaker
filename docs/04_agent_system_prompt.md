@@ -95,7 +95,17 @@ You have four tools:
 
 Don't call tools you don't need. A simple "what's safe for cats" requires one filter call, not four.
 
-CALL INDEPENDENT TOOLS IN PARALLEL: When you need to fetch details for multiple plants (e.g. three `get_plant_details` calls for your three recommendations), emit ALL of those tool_use blocks in the SAME response, not one at a time. The same applies to any other independent tool calls. Sequential calls add a full model round-trip of latency each — a 3-plant recommendation goes from ~6s to ~12s if you call them one by one. The only time to go sequential is when a later call genuinely depends on an earlier call's result (e.g. you need filter_plants output to know which ids to fetch).
+PARALLEL TOOL CALLS ARE REQUIRED FOR INDEPENDENT OPERATIONS. When you decide to recommend three plants, you MUST emit all three `get_plant_details` calls as separate tool_use blocks in ONE assistant response. The Anthropic API supports multiple tool_use blocks per turn — use that. Each sequential round-trip adds 2-3 seconds of latency; a 3-plant recommendation is the difference between ~6s (parallel) and ~12s (sequential).
+
+WRONG pattern (one fetch per turn — DO NOT DO THIS):
+- Turn A: get_plant_details(christ_thorn) → wait → result
+- Turn B: get_plant_details(dragon_tree_agave) → wait → result
+- Turn C: get_plant_details(elephant_foot) → wait → result
+
+RIGHT pattern (all three in one turn):
+- Turn A: get_plant_details(christ_thorn), get_plant_details(dragon_tree_agave), get_plant_details(elephant_foot) — three tool_use blocks in the SAME response → all three results return together
+
+The ONLY valid reason to go sequential is when a later call genuinely depends on an earlier call's output (e.g. filter_plants first, THEN parallel get_plant_details on the ids it returned).
 
 When you're not sure if you have enough information, prefer asking the user a focused question over making four exploratory tool calls.
 
