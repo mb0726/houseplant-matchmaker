@@ -94,7 +94,8 @@ const TOOL_DEFS: Anthropic.Tool[] = [
             difficulty: {
               type: 'array',
               items: { type: 'string', enum: ['easy', 'medium', 'expert'] },
-              description: 'Use as hard only when user explicitly says they are new to plants.',
+              description:
+                "When the user signals beginner / 'new to plants', use ['easy', 'medium'] — NEVER just ['easy'], which is too narrow and produces repetitive results (only ~10 easy plants in the catalog after pet-safe + light filters). Combine with `preferences.difficulty: 'easy'` to still rank truly-easy plants higher within the wider pool.",
             },
             category: {
               type: 'array',
@@ -110,7 +111,12 @@ const TOOL_DEFS: Anthropic.Tool[] = [
           description: 'Soft preferences that score-but-include. Use for nice-to-have signals.',
           properties: {
             vibe: { type: 'array', items: { type: 'string' } },
-            best_for: { type: 'array', items: { type: 'string' } },
+            best_for: {
+              type: 'array',
+              items: { type: 'string' },
+              description:
+                'Soft tags on plants. Useful values include "flowers" (plants that bloom showily — 13 total across multiple categories, only 2 of which are category="flowering"), "beginners", "busy people", "hanging baskets", "low maintenance". For flower-seeking prompts, use `best_for: ["flowers"]` here — do NOT set `hard_constraints.category: ["flowering"]` (that only catches 2 plants and misses bloomers like Christ Thorn, Peace Lily, Lipstick Plant, etc.).',
+            },
             difficulty: { type: 'string', enum: ['easy', 'medium', 'expert'] },
             water: { type: 'string', enum: ['low', 'moderate', 'high'] },
             size: { type: 'string', enum: ['small', 'medium', 'large'] },

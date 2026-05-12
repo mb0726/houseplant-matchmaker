@@ -22,14 +22,15 @@
     "best_for": [
       "hanging baskets",
       "trailing displays",
-      "bright sunny rooms"
+      "bright sunny rooms",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A trailing plant best known for its clusters of tubular red flowers that emerge from dark, lipstick-like buds at the vine tips. It needs bright indirect light to bloom reliably and is fussier than it looks \u2014 too little light or inconsistent watering and it'll stop flowering altogether.",
+    "short_description": "A trailing plant best known for its clusters of tubular red flowers that emerge from dark, lipstick-like buds at the vine tips. It needs bright indirect light to bloom reliably and is fussier than it looks — too little light or inconsistent watering and it'll stop flowering altogether.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Aeschynanthus_perrottetii_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Nativeplants garden. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -67,7 +68,7 @@
       "underwatering",
       "brown crispy leaf tips"
     ],
-    "short_description": "One of the most dramatic ferns you can own \u2014 in both beauty and sulkiness. Maidenhair ferns drop and crisp up fast if the air is too dry, the soil dries out even once, or they get a cold draft; they really belong in a humid bathroom or near a humidifier.",
+    "short_description": "One of the most dramatic ferns you can own — in both beauty and sulkiness. Maidenhair ferns drop and crisp up fast if the air is too dry, the soil dries out even once, or they get a cold draft; they really belong in a humid bathroom or near a humidifier.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Starr_030807-0143_Adiantum_raddianum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -99,14 +100,15 @@
     "best_for": [
       "bright sunny rooms",
       "low-effort decor",
-      "beginners"
+      "beginners",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "fungal issues"
     ],
-    "short_description": "A striking bromeliad with silver-banded, strap-like leaves that form a central \"vase\" \u2014 you water into the cup, not just the soil, and you need to flush it regularly to prevent rot and mosquitoes. It blooms once with a long-lasting pink flower spike, then slowly offsets, so the care rhythm is genuinely different from most houseplants.",
+    "short_description": "A striking bromeliad with silver-banded, strap-like leaves that form a central \"vase\" — you water into the cup, not just the soil, and you need to flush it regularly to prevent rot and mosquitoes. It blooms once with a long-lasting pink flower spike, then slowly offsets, so the care rhythm is genuinely different from most houseplants.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Aechmea_fasciata_-_Wilhelma_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -144,7 +146,7 @@
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "A fussy but stunning fern with delicate, fan-shaped fronds that emerge in rosy-bronze tones before maturing to green. It demands consistently moist soil and high humidity \u2014 let it dry out even once and the fronds will crisp up fast.",
+    "short_description": "A fussy but stunning fern with delicate, fan-shaped fronds that emerge in rosy-bronze tones before maturing to green. It demands consistently moist soil and high humidity — let it dry out even once and the fronds will crisp up fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Adiantum_Chatswood_west.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Poyt448 Peter Woodard. CC0 via Wikimedia Commons.",
     "provenance": {
@@ -182,7 +184,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A bold, rosette-forming succulent with wide, soft-tipped blue-green leaves that can reach impressive size over time. It's one of the more forgiving agaves \u2014 drought-tough, sun-loving, and happy to be ignored as long as you don't overwater it.",
+    "short_description": "A bold, rosette-forming succulent with wide, soft-tipped blue-green leaves that can reach impressive size over time. It's one of the more forgiving agaves — drought-tough, sun-loving, and happy to be ignored as long as you don't overwater it.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Agave_attenuata_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -220,7 +222,7 @@
       "root rot",
       "cold draft sensitivity"
     ],
-    "short_description": "One of the most forgiving houseplants around \u2014 Aglaonemas handle low light, inconsistent watering, and general neglect better than almost anything else. The patterned, lance-shaped leaves come in a wide range of greens and silvers, making it a reliable workhorse that still looks good on a shelf or desk.",
+    "short_description": "One of the most forgiving houseplants around — Aglaonemas handle low light, inconsistent watering, and general neglect better than almost anything else. The patterned, lance-shaped leaves come in a wide range of greens and silvers, making it a reliable workhorse that still looks good on a shelf or desk.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/20260317_Aglaonema_commutatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Flocci Nivis. CC BY 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -257,7 +259,7 @@
       "low humidity damage",
       "spider mites"
     ],
-    "short_description": "A rare and striking Alocasia with thick, silvery-grey leaves and a bold, jewel-like presence. Fussy about humidity, watering consistency, and light \u2014 this one's for experienced growers who can keep conditions stable.",
+    "short_description": "A rare and striking Alocasia with thick, silvery-grey leaves and a bold, jewel-like presence. Fussy about humidity, watering consistency, and light — this one's for experienced growers who can keep conditions stable.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Alocasia_macrorrhizos_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -297,7 +299,7 @@
       "root rot",
       "light burn"
     ],
-    "short_description": "One of the toughest houseplants around \u2014 it tolerates low light, neglect, dust, and irregular watering without complaint. Slow-growing and unfussy, it earns its name by surviving conditions that would kill most other plants.",
+    "short_description": "One of the toughest houseplants around — it tolerates low light, neglect, dust, and irregular watering without complaint. Slow-growing and unfussy, it earns its name by surviving conditions that would kill most other plants.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Aspidistra-elatior-variegata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: frau-doktor. Public domain via Wikimedia Commons.",
     "provenance": {
@@ -375,7 +377,7 @@
       "brown crispy leaf tips",
       "low humidity damage"
     ],
-    "short_description": "A clustering palm with distinctive jagged, fish-tail-shaped leaflets that give it a genuinely unusual look among palms. It wants consistent moisture and decent humidity \u2014 let it dry out or sit in dry indoor air and the leaf tips will go brown fast.",
+    "short_description": "A clustering palm with distinctive jagged, fish-tail-shaped leaflets that give it a genuinely unusual look among palms. It wants consistent moisture and decent humidity — let it dry out or sit in dry indoor air and the leaf tips will go brown fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Caryota_mitis_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Prenn. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -407,14 +409,15 @@
     ],
     "best_for": [
       "bright sunny rooms",
-      "low-effort decor"
+      "low-effort decor",
+      "flowers"
     ],
     "failure_modes": [
       "leaf drop from stress",
       "spider mites",
       "overwatering"
     ],
-    "short_description": "Crotons are bold, multi-colored foliage plants that need serious direct sun to keep their vivid yellow, orange, and red leaf patterns \u2014 in low light they fade fast. They're fussy about change: moving them, cold drafts, or inconsistent watering will trigger dramatic leaf drop.",
+    "short_description": "Crotons are bold, multi-colored foliage plants that need serious direct sun to keep their vivid yellow, orange, and red leaf patterns — in low light they fade fast. They're fussy about change: moving them, cold drafts, or inconsistent watering will trigger dramatic leaf drop.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Codiaeum_variegatum_pictum_Petra03ra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Satin66Flower. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -454,7 +457,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A tall, columnar cactus with a bold, architectural presence that can reach ceiling height indoors over time. Extremely forgiving \u2014 as long as it gets full sun and you resist the urge to overwater, it's nearly impossible to kill.",
+    "short_description": "A tall, columnar cactus with a bold, architectural presence that can reach ceiling height indoors over time. Extremely forgiving — as long as it gets full sun and you resist the urge to overwater, it's nearly impossible to kill.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Cierge_du_P%C3%A9rou_%28Cereus_repandus_ou_Cereus_hildmannianus%29_-_JARDIN_D%27ESSAI_OUIDAH_-_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Fawaz.tairou. CC BY 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -492,7 +495,7 @@
       "underwatering",
       "brown crispy leaf tips"
     ],
-    "short_description": "A striking fern that develops a small, palm-like trunk over time \u2014 impressive, but genuinely fussy. It needs consistently moist soil, high humidity, and bright indirect light, and will punish you fast with crispy brown fronds if any of those slip.",
+    "short_description": "A striking fern that develops a small, palm-like trunk over time — impressive, but genuinely fussy. It needs consistently moist soil, high humidity, and bright indirect light, and will punish you fast with crispy brown fronds if any of those slip.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Blechnum_gibbum_%28Washington_DC%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Daderot. Public domain via Wikimedia Commons.",
     "provenance": {
@@ -532,7 +535,7 @@
       "spider mites",
       "brown crispy leaf tips"
     ],
-    "short_description": "One of the most forgiving palms you can grow indoors \u2014 it handles lower light far better than most palms and doesn't throw a tantrum if you occasionally forget to water. Brown leaf tips are common in dry indoor air, but overall it's a reliable, easygoing plant that brings a soft tropical feel to any room.",
+    "short_description": "One of the most forgiving palms you can grow indoors — it handles lower light far better than most palms and doesn't throw a tantrum if you occasionally forget to water. Brown leaf tips are common in dry indoor air, but overall it's a reliable, easygoing plant that brings a soft tropical feel to any room.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Chamaedorea_elegans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Tequila 13:54, 24 June 2007 (UTC). CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -570,7 +573,7 @@
       "brown crispy leaf tips",
       "overwatering"
     ],
-    "short_description": "Stunning patterned leaves with dark green medallion markings on top and deep purple undersides, but this plant is fussy and will let you know immediately if it's unhappy. It demands consistently high humidity, filtered water, and careful watering \u2014 brown crispy tips are almost inevitable if conditions aren't just right.",
+    "short_description": "Stunning patterned leaves with dark green medallion markings on top and deep purple undersides, but this plant is fussy and will let you know immediately if it's unhappy. It demands consistently high humidity, filtered water, and careful watering — brown crispy tips are almost inevitable if conditions aren't just right.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Marantaceae_Calathea_veitchiana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: NasserHalaweh. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -608,7 +611,7 @@
       "brown crispy leaf tips",
       "overwatering"
     ],
-    "short_description": "A striking Calathea with bold silver-patterned foliage that makes a real statement on a shelf or table. Fussy about humidity and consistent moisture \u2014 brown crispy tips are the first sign it's unhappy, usually from dry air or tap water minerals.",
+    "short_description": "A striking Calathea with bold silver-patterned foliage that makes a real statement on a shelf or table. Fussy about humidity and consistent moisture — brown crispy tips are the first sign it's unhappy, usually from dry air or tap water minerals.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Calathea_warscewiczii_-_Wilhelma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -658,7 +661,7 @@
   },
   {
     "id": "polly_alocasia",
-    "scientific_name": "Alocasia \u00d7 amazonica",
+    "scientific_name": "Alocasia × amazonica",
     "common_name": "Polly Alocasia",
     "also_known_as": [
       "African Mask Plant",
@@ -686,7 +689,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A striking plant with dark, arrow-shaped leaves and bold white veins \u2014 it looks dramatic but is genuinely fussy. It needs bright indirect light, consistent humidity, and careful watering; too wet or too dry and it'll drop leaves fast.",
+    "short_description": "A striking plant with dark, arrow-shaped leaves and bold white veins — it looks dramatic but is genuinely fussy. It needs bright indirect light, consistent humidity, and careful watering; too wet or too dry and it'll drop leaves fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Alocasia_mortfontanensis_at_Taman_Rekreasi_Taman_Sutera%2C_Kajang_20230708_170622.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Wiki Farazi. CC0 via Wikimedia Commons.",
     "provenance": {
@@ -717,14 +720,15 @@
     "best_for": [
       "bright sunny rooms",
       "low-effort decor",
-      "office spaces"
+      "office spaces",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "Anthurium produces its signature waxy, heart-shaped spathes in red, pink, or white, and blooms on and off year-round if it gets enough light. It's fussier than it looks \u2014 low humidity will crisp the leaf edges and poor watering habits lead quickly to root rot.",
+    "short_description": "Anthurium produces its signature waxy, heart-shaped spathes in red, pink, or white, and blooms on and off year-round if it gets enough light. It's fussier than it looks — low humidity will crisp the leaf edges and poor watering habits lead quickly to root rot.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Anthurium_%28Flamingoplant%29_12-08-2019_%28actm%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Agnes Monkelbaan. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -755,14 +759,15 @@
     "best_for": [
       "bright sunny rooms",
       "humidity lovers",
-      "office spaces"
+      "office spaces",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "A bold, rosette-forming Anthurium that grows large, paddle-shaped leaves in a bird's-nest arrangement \u2014 more foliage-forward than its flowering cousins. It's forgiving about drying out between waterings, but it does want humidity and bright indirect light to look its best, and brown tips will tell you quickly if the air is too dry.",
+    "short_description": "A bold, rosette-forming Anthurium that grows large, paddle-shaped leaves in a bird's-nest arrangement — more foliage-forward than its flowering cousins. It's forgiving about drying out between waterings, but it does want humidity and bright indirect light to look its best, and brown tips will tell you quickly if the air is too dry.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Anthurium_hookeri.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Oeropium. CC BY 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -800,7 +805,7 @@
       "spider mites",
       "fungal issues"
     ],
-    "short_description": "A vigorous vining plant with glossy, deeply lobed leaflets that drape beautifully from a hanging basket or shelf. More forgiving of lower light than most trailers, but it's a magnet for spider mites and can develop fungal problems if airflow is poor \u2014 so don't crowd it.",
+    "short_description": "A vigorous vining plant with glossy, deeply lobed leaflets that drape beautifully from a hanging basket or shelf. More forgiving of lower light than most trailers, but it's a magnet for spider mites and can develop fungal problems if airflow is poor — so don't crowd it.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cissus_alata_Leaves.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Photo by and (c)2014 Derek Ramsey (Ram-Man). GFDL 1.2 via Wikimedia Commons.",
     "provenance": {
@@ -839,7 +844,7 @@
       "brown crispy leaf tips",
       "overwatering"
     ],
-    "short_description": "A prayer plant relative with striking patterned foliage that folds up at night. Fussy about humidity and sensitive to tap water \u2014 brown crispy tips are the first sign it's not happy.",
+    "short_description": "A prayer plant relative with striking patterned foliage that folds up at night. Fussy about humidity and sensitive to tap water — brown crispy tips are the first sign it's not happy.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Calathea_stromata-1-bsi-yercaud-salem-India.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Yercaud-elango. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -878,7 +883,7 @@
       "brown crispy leaf tips",
       "overwatering"
     ],
-    "short_description": "A striking Calathea with long, wavy-edged leaves that have a velvety texture on top and deep purple undersides. Like all Calatheas, it's fussy about humidity and water quality \u2014 tap water, dry air, or inconsistent moisture will show up fast as brown, crispy leaf tips.",
+    "short_description": "A striking Calathea with long, wavy-edged leaves that have a velvety texture on top and deep purple undersides. Like all Calatheas, it's fussy about humidity and water quality — tap water, dry air, or inconsistent moisture will show up fast as brown, crispy leaf tips.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Calathea_rufibarba_kz02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -918,7 +923,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A tough, slow-growing succulent with thick, glossy oval leaves and woody stems that give it a tree-like look over time. Forgiving of neglect and irregular watering \u2014 the main way to kill it is overwatering or leaving it in a dark corner.",
+    "short_description": "A tough, slow-growing succulent with thick, glossy oval leaves and woody stems that give it a tree-like look over time. Forgiving of neglect and irregular watering — the main way to kill it is overwatering or leaving it in a dark corner.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Among_the_branches_of_a_potted_jade_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: W.carter. CC0 via Wikimedia Commons.",
     "provenance": {
@@ -956,7 +961,7 @@
       "brown crispy leaf tips",
       "overwatering"
     ],
-    "short_description": "Calathea ornata is stunning but fussy \u2014 it demands high humidity, consistent moisture, and no direct sun or cold drafts. Brown crispy tips and curling leaves are its way of telling you the air is too dry, which is most homes.",
+    "short_description": "Calathea ornata is stunning but fussy — it demands high humidity, consistent moisture, and no direct sun or cold drafts. Brown crispy tips and curling leaves are its way of telling you the air is too dry, which is most homes.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Calathea_warscewiczii_-_Wilhelma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -995,7 +1000,7 @@
       "brown crispy leaf tips",
       "overwatering"
     ],
-    "short_description": "A bold, glossy fern with broad, strap-like fronds that radiate from a central rosette \u2014 far tougher-looking than most ferns, but still fussy about humidity and consistent moisture. Brown crispy tips are almost always a sign the air is too dry or watering has been inconsistent.",
+    "short_description": "A bold, glossy fern with broad, strap-like fronds that radiate from a central rosette — far tougher-looking than most ferns, but still fussy about humidity and consistent moisture. Brown crispy tips are almost always a sign the air is too dry or watering has been inconsistent.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bird%27s-nest_Fern_Asplenium_nidus_Leaves_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Photo by and (c)2014 Derek Ramsey (Ram-Man). GFDL 1.2 via Wikimedia Commons.",
     "provenance": {
@@ -1035,7 +1040,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "One of the most forgiving houseplants out there \u2014 it handles low light, irregular watering, and neglect better than almost anything else. The arching leaves and cascading plantlets make it a natural for hanging baskets, and it's non-toxic to pets.",
+    "short_description": "One of the most forgiving houseplants out there — it handles low light, irregular watering, and neglect better than almost anything else. The arching leaves and cascading plantlets make it a natural for hanging baskets, and it's non-toxic to pets.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Chlorophytum_comosum_flos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Adrian Tync. CC BY 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -1073,7 +1078,7 @@
       "underwatering",
       "brown crispy leaf tips"
     ],
-    "short_description": "A striking, tree-like fern with glossy, leathery fronds that grows larger and more upright than most ferns. It needs consistent moisture and decent humidity \u2014 let it dry out or sit in dry air and those leaf tips will go crispy fast.",
+    "short_description": "A striking, tree-like fern with glossy, leathery fronds that grows larger and more upright than most ferns. It needs consistent moisture and decent humidity — let it dry out or sit in dry air and those leaf tips will go crispy fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Didymochlaena_truncatula_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -1111,7 +1116,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A bold, leafy tropical with large patterned leaves in creamy whites and greens \u2014 it makes a real visual impact without needing a ton of light. It's forgiving enough for beginners, but it does not like wet feet, so make sure drainage is solid, and keep it away from cold drafts.",
+    "short_description": "A bold, leafy tropical with large patterned leaves in creamy whites and greens — it makes a real visual impact without needing a ton of light. It's forgiving enough for beginners, but it does not like wet feet, so make sure drainage is solid, and keep it away from cold drafts.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Dieffenbachia_seguine_kz08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -1149,7 +1154,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "A tough, slow-growing floor plant with slender, spiky leaves edged in red or pink that fan out from a bare, cane-like trunk. It handles low light and some neglect well, but overwatering is the fastest way to kill it \u2014 let the soil dry out a fair bit between waterings.",
+    "short_description": "A tough, slow-growing floor plant with slender, spiky leaves edged in red or pink that fan out from a bare, cane-like trunk. It handles low light and some neglect well, but overwatering is the fastest way to kill it — let the soil dry out a fair bit between waterings.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Dracaena_reflexa_var._angustifolia_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1189,7 +1194,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "A cane-stemmed floor plant with broad, arching green leaves striped with a yellow-green center \u2014 one of the most forgiving large houseplants you can own. It handles low light and inconsistent watering better than most, though fluoride in tap water is a common cause of those brown crispy tips.",
+    "short_description": "A cane-stemmed floor plant with broad, arching green leaves striped with a yellow-green center — one of the most forgiving large houseplants you can own. It handles low light and inconsistent watering better than most, though fluoride in tap water is a common cause of those brown crispy tips.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dracaena_fragrans_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1228,7 +1233,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "A tough, upright dracaena with long, deep-green strap leaves that grows into a bold floor plant over time. One of the most forgiving houseplants around \u2014 it handles low light and irregular watering better than most, though it's sensitive to fluoride in tap water, which causes the brown leaf tips beginners often worry about.",
+    "short_description": "A tough, upright dracaena with long, deep-green strap leaves that grows into a bold floor plant over time. One of the most forgiving houseplants around — it handles low light and irregular watering better than most, though it's sensitive to fluoride in tap water, which causes the brown leaf tips beginners often worry about.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dracaena_fragrans_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1268,7 +1273,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A low-growing, star-shaped bromeliad with striking striped or banded foliage that earns its keep purely on looks. Unlike most bromeliads it grows in soil rather than as an air plant, but it's still fussy about overwatering and appreciates good humidity \u2014 not quite the set-it-and-forget-it plant it's sometimes sold as.",
+    "short_description": "A low-growing, star-shaped bromeliad with striking striped or banded foliage that earns its keep purely on looks. Unlike most bromeliads it grows in soil rather than as an air plant, but it's still fussy about overwatering and appreciates good humidity — not quite the set-it-and-forget-it plant it's sometimes sold as.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/CryptanthusBivittatus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Chhe (talk). Public domain via Wikimedia Commons.",
     "provenance": {
@@ -1344,7 +1349,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A slow-growing architectural cycad (technically not a true palm) with stiff, feathery fronds radiating from a central crown. It looks dramatic and handles drought well, but it's surprisingly fussy \u2014 overwatering is the fastest way to kill it, and all parts are highly toxic to pets and people.",
+    "short_description": "A slow-growing architectural cycad (technically not a true palm) with stiff, feathery fronds radiating from a central crown. It looks dramatic and handles drought well, but it's surprisingly fussy — overwatering is the fastest way to kill it, and all parts are highly toxic to pets and people.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Cycas_revoluta_MHNT.BOT.2018.28.17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Roger Culos. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1383,7 +1388,7 @@
       "underwatering",
       "brown crispy leaf tips"
     ],
-    "short_description": "A striking foliage plant in the Marantaceae family, with boldly variegated green and yellow leaves. It needs consistent moisture and decent humidity \u2014 let it dry out or sit in dry air and you'll get brown crispy tips fast.",
+    "short_description": "A striking foliage plant in the Marantaceae family, with boldly variegated green and yellow leaves. It needs consistent moisture and decent humidity — let it dry out or sit in dry air and you'll get brown crispy tips fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ctenanthe_lubbersiana_-_Shinjuku_Gyo-en_Greenhouse_-_Tokyo%2C_Japan_-_DSC05842.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Daderot. CC0 via Wikimedia Commons.",
     "provenance": {
@@ -1460,7 +1465,7 @@
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "Holly-fern is one of the tougher ferns \u2014 its glossy, holly-like fronds handle lower light and drier air better than most. Still, it wants consistent moisture and will punish you with crispy tips if you let it dry out completely or keep it in a bone-dry room.",
+    "short_description": "Holly-fern is one of the tougher ferns — its glossy, holly-like fronds handle lower light and drier air better than most. Still, it wants consistent moisture and will punish you with crispy tips if you let it dry out completely or keep it in a bone-dry room.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cyrtomium_falcatum_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Stan Shebs. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1498,7 +1503,7 @@
       "overwatering",
       "brown crispy leaf tips"
     ],
-    "short_description": "A fern best known for its fuzzy, silver-brown rhizomes that creep over the edge of the pot \u2014 the \"rabbit's feet\" of its name. More forgiving than most ferns since it tolerates some drying out between waterings, but it still wants humidity and bright indirect light to stay lush.",
+    "short_description": "A fern best known for its fuzzy, silver-brown rhizomes that creep over the edge of the pot — the \"rabbit's feet\" of its name. More forgiving than most ferns since it tolerates some drying out between waterings, but it still wants humidity and bright indirect light to stay lush.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Davallia_canariensis_cult0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: No machine-readable author provided. MPF assumed (based on copyright claims).. CC BY 2.5 via Wikimedia Commons.",
     "provenance": {
@@ -1574,7 +1579,7 @@
       "spider mites",
       "overwatering"
     ],
-    "short_description": "A full, feathery palm that makes a serious statement in a bright living room. It needs consistent moisture, high humidity, and good light \u2014 neglect any one of those and the tips go brown fast.",
+    "short_description": "A full, feathery palm that makes a serious statement in a bright living room. It needs consistent moisture, high humidity, and good light — neglect any one of those and the tips go brown fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Golden_cane_palm_%28Dypsis_lutescens%29_trunk%2C_Estufa_Fria%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Jules Verne Times Two. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -1605,14 +1610,15 @@
     "best_for": [
       "hanging baskets",
       "trailing displays",
-      "bright sunny rooms"
+      "bright sunny rooms",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "An epiphytic cactus \u2014 native to rainforest canopies, not deserts \u2014 that produces dramatic, often fragrant blooms on long, flat, trailing stems. It's fussier than a typical cactus: it wants bright indirect light, more moisture, and won't forgive sitting in soggy soil.",
+    "short_description": "An epiphytic cactus — native to rainforest canopies, not deserts — that produces dramatic, often fragrant blooms on long, flat, trailing stems. It's fussier than a typical cactus: it wants bright indirect light, more moisture, and won't forgive sitting in soggy soil.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Epiphyllum_anguliger%2C_Jard%C3%ADn_Bot%C3%A1nico%2C_M%C3%BAnich%2C_Alemania_2012-04-21%2C_DD_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Diego Delso. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1682,14 +1688,15 @@
     "best_for": [
       "beginners",
       "bright sunny rooms",
-      "low-effort decor"
+      "low-effort decor",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A spiny, shrubby succulent that blooms almost year-round in bright sun \u2014 those cheerful little flower clusters (actually bracts) sit atop thorny stems that store water. Genuinely tough and forgiving as long as you don't overwater it and give it a sunny windowsill.",
+    "short_description": "A spiny, shrubby succulent that blooms almost year-round in bright sun — those cheerful little flower clusters (actually bracts) sit atop thorny stems that store water. Genuinely tough and forgiving as long as you don't overwater it and give it a sunny windowsill.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Crown_of_Thorns_Starfish_at_Malapascuas_Island_v._II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Matt Kieffer. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -1727,7 +1734,7 @@
       "root rot",
       "yellowing leaves"
     ],
-    "short_description": "A variegated pothos with creamy white and green marbled leaves that trails readily from shelves or hanging baskets. One of the most forgiving houseplants around \u2014 it handles neglect well, though the bright variegation needs decent indirect light to stay vivid.",
+    "short_description": "A variegated pothos with creamy white and green marbled leaves that trails readily from shelves or hanging baskets. One of the most forgiving houseplants around — it handles neglect well, though the bright variegation needs decent indirect light to stay vivid.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Epipremnum_aureum_31082012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Joydeep. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1758,14 +1765,15 @@
     "best_for": [
       "bright sunny rooms",
       "low-effort decor",
-      "humidity lovers"
+      "humidity lovers",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A bromeliad with a bold, long-lasting central flower spike that blazes red-orange above a rosette of glossy green leaves. It has a quirky dual watering need \u2014 keep the central cup (vase) filled with fresh water while letting the soil dry out partway, which trips up a lot of new owners.",
+    "short_description": "A bromeliad with a bold, long-lasting central flower spike that blazes red-orange above a rosette of glossy green leaves. It has a quirky dual watering need — keep the central cup (vase) filled with fresh water while letting the soil dry out partway, which trips up a lot of new owners.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Guzmania_lingulata_-_5722.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Amada44. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1804,9 +1812,9 @@
       "overwatering",
       "root rot"
     ],
-    "short_description": "A classic indoor tree with gracefully arching branches, famously sensitive to relocation, drafts, and watering changes \u2014 it'll drop leaves whenever its environment shifts. Once it finds its spot and you nail a consistent routine, it settles down and looks stunning.",
+    "short_description": "A classic indoor tree with gracefully arching branches, famously sensitive to relocation, drafts, and watering changes — it'll drop leaves whenever its environment shifts. Once it finds its spot and you nail a consistent routine, it settles down and looks stunning.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ficus_elastica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Franz Eugen K\u00f6hler, K\u00f6hler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
+    "image_attribution": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:scientific:Ficus benjamina",
@@ -1843,9 +1851,9 @@
       "root rot",
       "spider mites"
     ],
-    "short_description": "A bold, large-leafed plant with deeply lobed, glossy leaves that can handle lower light than most big tropicals \u2014 it actually prefers cooler temps and shade over a bright sunny spot. Fairly forgiving as long as you don't let it sit in soggy soil.",
+    "short_description": "A bold, large-leafed plant with deeply lobed, glossy leaves that can handle lower light than most big tropicals — it actually prefers cooler temps and shade over a bright sunny spot. Fairly forgiving as long as you don't let it sit in soggy soil.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Fatsia_japonica.003_-_Zapateira.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Fernando Losada Rodr\u00edguez. CC BY-SA 4.0 via Wikimedia Commons.",
+    "image_attribution": "Photo: Fernando Losada Rodríguez. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:scientific:Fatsia japonica",
@@ -1879,7 +1887,7 @@
       "root rot",
       "cold draft sensitivity"
     ],
-    "short_description": "A towering, candelabra-style euphorbia with dramatic variegated green-and-white striped columns \u2014 it can reach ceiling height indoors given enough sun. Treat it like a desert succulent: full direct sun, very infrequent watering, and absolutely no soggy soil.",
+    "short_description": "A towering, candelabra-style euphorbia with dramatic variegated green-and-white striped columns — it can reach ceiling height indoors given enough sun. Treat it like a desert succulent: full direct sun, very infrequent watering, and absolutely no soggy soil.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Starr_071024-0225_Euphorbia_ammak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1917,9 +1925,9 @@
       "brown crispy leaf tips",
       "low humidity damage"
     ],
-    "short_description": "A fast-growing, fine-leaved creeping vine that clings to surfaces and cascades beautifully from shelves or hanging baskets. Fussier than it looks \u2014 it wants consistent moisture and humidity, and will punish you with crispy leaves if you let it dry out or the air gets too dry.",
+    "short_description": "A fast-growing, fine-leaved creeping vine that clings to surfaces and cascades beautifully from shelves or hanging baskets. Fussier than it looks — it wants consistent moisture and humidity, and will punish you with crispy leaves if you let it dry out or the air gets too dry.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ficus_elastica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Franz Eugen K\u00f6hler, K\u00f6hler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
+    "image_attribution": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:genus:ficus",
@@ -1957,7 +1965,7 @@
       "root rot",
       "yellowing leaves"
     ],
-    "short_description": "One of the most forgiving houseplants out there \u2014 Golden Pothos tolerates low light, inconsistent watering, and general neglect better than almost anything else. Its trailing golden-green vines look great in a hanging basket or spilling off a shelf.",
+    "short_description": "One of the most forgiving houseplants out there — Golden Pothos tolerates low light, inconsistent watering, and general neglect better than almost anything else. Its trailing golden-green vines look great in a hanging basket or spilling off a shelf.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Epipremnum_aureum_31082012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Joydeep. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -1996,9 +2004,9 @@
       "leaf drop from stress",
       "root rot"
     ],
-    "short_description": "A dramatic floor tree with huge, violin-shaped leaves that looks stunning \u2014 but is genuinely fussy. It drops leaves at the slightest change in position, drafts, or watering inconsistency, and it punishes overwatering fast.",
+    "short_description": "A dramatic floor tree with huge, violin-shaped leaves that looks stunning — but is genuinely fussy. It drops leaves at the slightest change in position, drafts, or watering inconsistency, and it punishes overwatering fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Ficus_elastica_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-206.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Franz Eugen K\u00f6hler, K\u00f6hler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
+    "image_attribution": "Photo: Franz Eugen Köhler, Köhler's Medizinal-Pflanzen. Public domain via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:genus:ficus",
@@ -2034,7 +2042,7 @@
       "overwatering",
       "root rot"
     ],
-    "short_description": "A classic cascading vine with lobed leaves that looks great in hanging baskets or spilling off a shelf. Fussier than its reputation suggests \u2014 it's a magnet for spider mites indoors and sulks in dry, heated air.",
+    "short_description": "A classic cascading vine with lobed leaves that looks great in hanging baskets or spilling off a shelf. Fussier than its reputation suggests — it's a magnet for spider mites indoors and sulks in dry, heated air.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Ivy_Hedera_Red_Brick_Wall_2892px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Photo by and (c)2007 Derek Ramsey (Ram-Man). GFDL 1.2 via Wikimedia Commons.",
     "provenance": {
@@ -2072,7 +2080,7 @@
       "low humidity damage",
       "spider mites"
     ],
-    "short_description": "A stunning low-growing prayer plant with vivid red veins on deep green leaves that fold up at night. Fussy about humidity and inconsistent watering \u2014 brown crispy tips are the first sign it's unhappy, and they show up fast in dry indoor air.",
+    "short_description": "A stunning low-growing prayer plant with vivid red veins on deep green leaves that fold up at night. Fussy about humidity and inconsistent watering — brown crispy tips are the first sign it's unhappy, and they show up fast in dry indoor air.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Maranta-leuconeura-var.-erythroneura-leaf-scan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Afanasovich. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2110,7 +2118,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "Monstera deliciosa is the classic big-leaf houseplant with its iconic split and fenestrated leaves \u2014 it grows fast, makes a real impact, and forgives occasional neglect. It likes bright indirect light to really thrive, but it's one of the few large plants that can adapt to dimmer spots without throwing a fit.",
+    "short_description": "Monstera deliciosa is the classic big-leaf houseplant with its iconic split and fenestrated leaves — it grows fast, makes a real impact, and forgives occasional neglect. It likes bright indirect light to really thrive, but it's one of the few large plants that can adapt to dimmer spots without throwing a fit.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Monstera_deliciosa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2148,7 +2156,7 @@
       "root rot",
       "yellowing leaves"
     ],
-    "short_description": "A compact, glossy-leaved peperomia that's genuinely forgiving \u2014 it tolerates lower light and irregular watering better than most. The thick, waxy leaves store water, so it's more likely to suffer from overwatering than neglect.",
+    "short_description": "A compact, glossy-leaved peperomia that's genuinely forgiving — it tolerates lower light and irregular watering better than most. The thick, waxy leaves store water, so it's more likely to suffer from overwatering than neglect.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Peperomia_obtusifolia%2C_Conservatorio_bot%C3%A1nico%2C_Fort_Wayne%2C_Indiana%2C_Estados_Unidos%2C_2012-11-12%2C_DD_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Diego Delso. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2187,7 +2195,7 @@
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "A sickle-leafed fern that needs consistent moisture and reasonable humidity to stay happy \u2014 it dislikes drying out completely and will respond with crispy fronds. Better suited to a humid bathroom shelf than a dry living room windowsill.",
+    "short_description": "A sickle-leafed fern that needs consistent moisture and reasonable humidity to stay happy — it dislikes drying out completely and will respond with crispy fronds. Better suited to a humid bathroom shelf than a dry living room windowsill.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Pellaea_falcata_Eastwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Poyt448 Peter Woodard. CC0 via Wikimedia Commons.",
     "provenance": {
@@ -2220,14 +2228,15 @@
     "best_for": [
       "hanging baskets",
       "trailing displays",
-      "busy people"
+      "busy people",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A slow-growing vining plant with thick, waxy leaves and occasional clusters of sweetly scented star-shaped flowers. It's pretty forgiving \u2014 it likes to dry out between waterings and will reward neglect more than fussing.",
+    "short_description": "A slow-growing vining plant with thick, waxy leaves and occasional clusters of sweetly scented star-shaped flowers. It's pretty forgiving — it likes to dry out between waterings and will reward neglect more than fussing.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hoya_carnosa_Exotica1C2000.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Wayne Boucher. CC BY-SA 2.5 via Wikimedia Commons.",
     "provenance": {
@@ -2265,7 +2274,7 @@
       "root rot",
       "cold draft sensitivity"
     ],
-    "short_description": "A striking succulent that looks more like a prehistoric tree than a houseplant \u2014 it develops a thick, spiny silver trunk topped with a tuft of long narrow leaves. It needs a genuinely sunny spot and is surprisingly easy to kill with too much water or cold drafts, despite its tough appearance.",
+    "short_description": "A striking succulent that looks more like a prehistoric tree than a houseplant — it develops a thick, spiny silver trunk topped with a tuft of long narrow leaves. It needs a genuinely sunny spot and is surprisingly easy to kill with too much water or cold drafts, despite its tough appearance.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pachypodium_geayi_kz04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Krzysztof Ziarnek, Kenraiz. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2343,7 +2352,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A grass-like groundcover with arching green-and-cream striped leaves that brings a soft, meadow-like texture indoors. It's pretty forgiving \u2014 tolerates lower light better than most variegated plants and just needs you to avoid letting it sit in soggy soil.",
+    "short_description": "A grass-like groundcover with arching green-and-cream striped leaves that brings a soft, meadow-like texture indoors. It's pretty forgiving — tolerates lower light better than most variegated plants and just needs you to avoid letting it sit in soggy soil.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Liriope_muscari_Variegata_0zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Photo by David J. Stang. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2385,7 +2394,7 @@
     ],
     "short_description": "A vining philodendron with heart-shaped leaves covered in a soft, iridescent velvet texture that shifts from bronze to deep green. It's forgiving and fast-growing, though it'll tell you when humidity is too low with crispy edges.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Philodendron_giganteum03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Lin\u00e91. CC BY 2.5 via Wikimedia Commons.",
+    "image_attribution": "Photo: Liné1. CC BY 2.5 via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:genus:philodendron",
@@ -2421,7 +2430,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A drought-adapted plant with a swollen trunk base that stores water, topped with a fountain of long, strappy leaves. Genuinely forgiving \u2014 it thrives on neglect, handles missed waterings easily, and loves a sunny spot.",
+    "short_description": "A drought-adapted plant with a swollen trunk base that stores water, topped with a fountain of long, strappy leaves. Genuinely forgiving — it thrives on neglect, handles missed waterings easily, and loves a sunny spot.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Beaucarnea_recurvata%2C_Ocampo%2C_Tamaulipas%2C_Mexico_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: juancruzado. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2459,7 +2468,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A fast-growing, vining philodendron with chartreuse-to-lime green heart-shaped leaves that brighten up any shelf or hanging basket. It's genuinely forgiving \u2014 it'll tolerate some neglect and bounce back from most beginner mistakes as long as you don't keep its roots soggy.",
+    "short_description": "A fast-growing, vining philodendron with chartreuse-to-lime green heart-shaped leaves that brighten up any shelf or hanging basket. It's genuinely forgiving — it'll tolerate some neglect and bounce back from most beginner mistakes as long as you don't keep its roots soggy.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Philodendron_hederaceum%2C_Singapore_Botanic_Gardens_%28141542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Moheen Reeyad. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2492,14 +2501,15 @@
     "best_for": [
       "bright sunny rooms",
       "beginners",
-      "shelf or elevated planters"
+      "shelf or elevated planters",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "The most popular orchid for a reason \u2014 it blooms for months and forgives inconsistent watering better than most orchids. The catch is it hates sitting in soggy bark mix, so root rot from overwatering is the number-one killer.",
+    "short_description": "The most popular orchid for a reason — it blooms for months and forgives inconsistent watering better than most orchids. The catch is it hates sitting in soggy bark mix, so root rot from overwatering is the number-one killer.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Phalaenopsis_cultivar_FR_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: JLPC. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2533,14 +2543,15 @@
     "best_for": [
       "bright sunny rooms",
       "humidity lovers",
-      "bathrooms"
+      "bathrooms",
+      "flowers"
     ],
     "failure_modes": [
       "underwatering",
       "spider mites",
       "leaf drop from stress"
     ],
-    "short_description": "A sun-hungry flowering shrub that produces big, showy blooms when it gets at least 6 hours of direct sun and consistent moisture. It's fussy about changes \u2014 moving it, cold drafts, or letting it dry out will trigger bud and leaf drop fast.",
+    "short_description": "A sun-hungry flowering shrub that produces big, showy blooms when it gets at least 6 hours of direct sun and consistent moisture. It's fussy about changes — moving it, cold drafts, or letting it dry out will trigger bud and leaf drop fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Hibiscus_petal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Nvineeth. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2578,7 +2589,7 @@
       "underwatering",
       "brown crispy leaf tips"
     ],
-    "short_description": "A classic lush fern with long, arching fronds that looks stunning in a hanging basket \u2014 but it's fussy about humidity and consistent moisture. If your home is dry or you forget to water, it'll shed fronds fast and go crispy at the tips.",
+    "short_description": "A classic lush fern with long, arching fronds that looks stunning in a hanging basket — but it's fussy about humidity and consistent moisture. If your home is dry or you forget to water, it'll shed fronds fast and go crispy at the tips.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nephrolepis_exaltata_Whitmanii_0zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Photo by David J. Stang. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2616,7 +2627,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "One of the most elegant palms you can grow indoors \u2014 the Kentia has long, arching fronds and handles lower light better than almost any other palm. It's slow-growing and pricey, so don't rush the watering: it wants consistent moisture but will rot if the roots sit wet.",
+    "short_description": "One of the most elegant palms you can grow indoors — the Kentia has long, arching fronds and handles lower light better than almost any other palm. It's slow-growing and pricey, so don't rush the watering: it wants consistent moisture but will rot if the roots sit wet.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Howea_forsteriana_Lord_Howe_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Black Diamond Images. CC BY 2.0 via Wikimedia Commons.",
     "provenance": {
@@ -2654,7 +2665,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A compact, glossy-leaved tropical that handles lower light better than most and stays tidy on a desk or shelf. It's fussier than it looks \u2014 it really dislikes overwatering and dry air, so root rot and crispy edges are the two most common ways it fails.",
+    "short_description": "A compact, glossy-leaved tropical that handles lower light better than most and stays tidy on a desk or shelf. It's fussier than it looks — it really dislikes overwatering and dry air, so root rot and crispy edges are the two most common ways it fails.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Starr_070906-8753_Homalomena_sp..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2692,7 +2703,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A compact peperomia with green, cream, and red-edged leaves that earns its \"tricolor\" name. Pretty forgiving overall, but like all peperomias it hates sitting in soggy soil \u2014 root rot from overwatering is the most common way this one dies.",
+    "short_description": "A compact peperomia with green, cream, and red-edged leaves that earns its \"tricolor\" name. Pretty forgiving overall, but like all peperomias it hates sitting in soggy soil — root rot from overwatering is the most common way this one dies.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Peperomia_clusiifolia_2011-01-17_Berlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: James Steakley. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2723,14 +2734,15 @@
     "best_for": [
       "bright sunny rooms",
       "humidity lovers",
-      "shelf or elevated planters"
+      "shelf or elevated planters",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "fungal issues"
     ],
-    "short_description": "A striking rosette bromeliad whose central leaves flush deep pink or red at bloom time \u2014 that's the \"blushing\" part. It has a central cup (tank) that needs to be kept filled with fresh water and flushed regularly, while the soil should be barely moist; getting that balance wrong is where most people trip up.",
+    "short_description": "A striking rosette bromeliad whose central leaves flush deep pink or red at bloom time — that's the \"blushing\" part. It has a central cup (tank) that needs to be kept filled with fresh water and flushed regularly, while the soil should be barely moist; getting that balance wrong is where most people trip up.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Neoregelia_carolinae_BotGardBln310505a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2768,7 +2780,7 @@
       "overwatering",
       "low humidity damage"
     ],
-    "short_description": "A compact, glossy-leaved plant with finely divided foliage that looks elegant on a desk or side table. Fussy about change \u2014 it will drop leaves dramatically if moved, underwatered, or kept somewhere too dry or dim, so pick a bright, stable spot and stick with it.",
+    "short_description": "A compact, glossy-leaved plant with finely divided foliage that looks elegant on a desk or side table. Fussy about change — it will drop leaves dramatically if moved, underwatered, or kept somewhere too dry or dim, so pick a bright, stable spot and stick with it.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Radermachera_sinica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2807,7 +2819,7 @@
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "A ribbon fern with arching, variegated fronds that tolerates lower light better than most ferns but still demands consistently moist soil and decent humidity. Let it dry out even once and you'll see crispy tips fast \u2014 it's fussy about water and humidity but manageable if you stay on top of both.",
+    "short_description": "A ribbon fern with arching, variegated fronds that tolerates lower light better than most ferns but still demands consistently moist soil and decent humidity. Let it dry out even once and you'll see crispy tips fast — it's fussy about water and humidity but manageable if you stay on top of both.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pteris_vittata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Franz Xaver. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2845,7 +2857,7 @@
       "brown crispy leaf tips",
       "spider mites"
     ],
-    "short_description": "A dramatic, arching palm that looks like it belongs in a resort lobby \u2014 but it's notoriously fussy indoors. It needs consistently moist soil, very bright light, and decent humidity, and it will still protest with brown leaf tips if any of those slip.",
+    "short_description": "A dramatic, arching palm that looks like it belongs in a resort lobby — but it's notoriously fussy indoors. It needs consistently moist soil, very bright light, and decent humidity, and it will still protest with brown leaf tips if any of those slip.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ravenea_rivularis-IMG_0468.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: C T Johansson. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -2882,7 +2894,7 @@
       "overwatering",
       "cold draft sensitivity"
     ],
-    "short_description": "A striking upright shrub with rounded, glossy leaves that develops a woody trunk over time. It's fussy about consistency \u2014 drafts, low humidity, or watering swings will trigger dramatic leaf drop fast.",
+    "short_description": "A striking upright shrub with rounded, glossy leaves that develops a woody trunk over time. It's fussy about consistency — drafts, low humidity, or watering swings will trigger dramatic leaf drop fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Polyscias_balfouriana_2840.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2921,9 +2933,9 @@
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "A compact fern with arching, ribbon-like fronds striped in green and creamy white. It needs consistent moisture and decent humidity \u2014 let it dry out even once and the tips will go crispy fast.",
+    "short_description": "A compact fern with arching, ribbon-like fronds striped in green and creamy white. It needs consistent moisture and decent humidity — let it dry out even once and the tips will go crispy fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pteris_cretica_%27Albo-lineata%27_a1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Jerzy Opio\u0142a. CC BY-SA 4.0 via Wikimedia Commons.",
+    "image_attribution": "Photo: Jerzy Opioła. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:genus:pteris",
@@ -2959,7 +2971,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A genuinely striking fern that grows flat shield fronds and dramatic antler-shaped fertile fronds \u2014 it's often mounted on wood rather than potted. It needs bright indirect light and a careful watering rhythm; let it get close to dry before soaking, or the root ball rots fast.",
+    "short_description": "A genuinely striking fern that grows flat shield fronds and dramatic antler-shaped fertile fronds — it's often mounted on wood rather than potted. It needs bright indirect light and a careful watering rhythm; let it get close to dry before soaking, or the root ball rots fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Platycerium_bifurcatum_%28Corne_d%27%C3%A9lan%29_-_107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -2998,7 +3010,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A compact, clumping philodendron with deeply lobed, glossy leaves that give it a bold, jungle-y look without the sprawl of vining types. Forgiving enough for beginners \u2014 it tolerates some neglect and adapts to lower light better than most philodendrons.",
+    "short_description": "A compact, clumping philodendron with deeply lobed, glossy leaves that give it a bold, jungle-y look without the sprawl of vining types. Forgiving enough for beginners — it tolerates some neglect and adapts to lower light better than most philodendrons.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Philodendron_xanadu_AK1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Piwaiwaka. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3036,7 +3048,7 @@
       "overwatering",
       "cold draft sensitivity"
     ],
-    "short_description": "Balfour aralia is a striking, slow-growing shrub with rounded, scalloped leaflets that develops a woody trunk over time \u2014 but it's fussy. It drops leaves dramatically in response to cold drafts, inconsistent watering, or being moved, so pick a bright, stable spot and leave it there.",
+    "short_description": "Balfour aralia is a striking, slow-growing shrub with rounded, scalloped leaflets that develops a woody trunk over time — but it's fussy. It drops leaves dramatically in response to cold drafts, inconsistent watering, or being moved, so pick a bright, stable spot and leave it there.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Polyscias_balfouriana_2815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3076,7 +3088,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "One of the most forgiving houseplants around \u2014 it tolerates low light, irregular watering, and general neglect better than almost anything else. The main way to kill it is overwatering, especially in a pot without drainage.",
+    "short_description": "One of the most forgiving houseplants around — it tolerates low light, irregular watering, and general neglect better than almost anything else. The main way to kill it is overwatering, especially in a pot without drainage.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Mokkie. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -3114,7 +3126,7 @@
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "A graceful, slow-growing evergreen tree with fine, feathery needles that give it a soft, almost wispy look \u2014 more elegant than a typical houseplant. It wants a genuinely sunny spot and consistent moisture, and will punish you with crispy tips if the air is too dry or watering is irregular.",
+    "short_description": "A graceful, slow-growing evergreen tree with fine, feathery needles that give it a soft, almost wispy look — more elegant than a typical houseplant. It wants a genuinely sunny spot and consistent moisture, and will punish you with crispy tips if the air is too dry or watering is irregular.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Podocarpus_gracilior1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: unknown. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -3152,7 +3164,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A compact, rosette-forming snake plant that stays low and dense rather than shooting up tall blades \u2014 genuinely one of the most forgiving plants you can own. It tolerates neglect, low light, and irregular watering far better than most, and the worst thing you can do is water it too often.",
+    "short_description": "A compact, rosette-forming snake plant that stays low and dense rather than shooting up tall blades — genuinely one of the most forgiving plants you can own. It tolerates neglect, low light, and irregular watering far better than most, and the worst thing you can do is water it too often.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sansevieria_trifasciata_%2836268%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Nativeplants garden. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3191,7 +3203,7 @@
       "overwatering",
       "cold draft sensitivity"
     ],
-    "short_description": "A compact, slow-growing aralia with heavily ruffled, crinkled leaves that give it an unusually textured, quirky look. It's fussier than it appears \u2014 it sulks and drops leaves if moved around, chilled by drafts, or overwatered, so find it a bright, stable spot and leave it alone.",
+    "short_description": "A compact, slow-growing aralia with heavily ruffled, crinkled leaves that give it an unusually textured, quirky look. It's fussier than it appears — it sulks and drops leaves if moved around, chilled by drafts, or overwatered, so find it a bright, stable spot and leave it alone.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Polyscias_balfouriana_2815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3230,7 +3242,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "A compact, graceful palm with arching feathery fronds that works well as a floor plant when given a sunny spot. It wants consistent moisture and plenty of direct light \u2014 let either slip and you'll see brown tips or a decline pretty quickly.",
+    "short_description": "A compact, graceful palm with arching feathery fronds that works well as a floor plant when given a sunny spot. It wants consistent moisture and plenty of direct light — let either slip and you'll see brown tips or a decline pretty quickly.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Starr_070124-3839_Phoenix_roebelenii.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Forest & Kim Starr. CC BY 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -3268,7 +3280,7 @@
       "cold draft sensitivity",
       "low humidity damage"
     ],
-    "short_description": "Ming Aralia has intricate, finely cut feathery foliage on woody, gnarled stems that give it a bonsai-like elegance. It's notoriously fussy \u2014 it drops leaves aggressively at the slightest provocation: a cold draft, a move to a new spot, inconsistent watering, or dry air.",
+    "short_description": "Ming Aralia has intricate, finely cut feathery foliage on woody, gnarled stems that give it a bonsai-like elegance. It's notoriously fussy — it drops leaves aggressively at the slightest provocation: a cold draft, a move to a new spot, inconsistent watering, or dry air.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Polyscias_balfouriana_2815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Vengolis. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3304,9 +3316,9 @@
       "low humidity damage",
       "brown crispy leaf tips"
     ],
-    "short_description": "A dramatic, deeply lobed floor plant that gets genuinely large over time \u2014 we're talking 4\u20135 feet wide. It's more forgiving than fussier tropicals, but it needs bright indirect light and decent humidity to avoid crispy leaf edges.",
+    "short_description": "A dramatic, deeply lobed floor plant that gets genuinely large over time — we're talking 4–5 feet wide. It's more forgiving than fussier tropicals, but it needs bright indirect light and decent humidity to avoid crispy leaf edges.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Thaumatophyllum_bipinnatifidum_syn._Philodendron_bipinnatifidum_syn._Philodendron_selloum_2021-06-09_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Agnieszka Kwiecie\u0144, Nova. CC BY-SA 4.0 via Wikimedia Commons.",
+    "image_attribution": "Photo: Agnieszka Kwiecień, Nova. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:scientific:Philodendron selloum",
@@ -3343,7 +3355,7 @@
       "root rot",
       "spider mites"
     ],
-    "short_description": "A clumping palm with fan-shaped, deeply divided leaves on slender bamboo-like stems \u2014 one of the few palms that genuinely tolerates lower indoor light. It wants consistent moisture and humidity, so it punishes neglect with crispy brown tips, but rewards steady care with slow, graceful growth.",
+    "short_description": "A clumping palm with fan-shaped, deeply divided leaves on slender bamboo-like stems — one of the few palms that genuinely tolerates lower indoor light. It wants consistent moisture and humidity, so it punishes neglect with crispy brown tips, but rewards steady care with slow, graceful growth.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rhapis_excelsa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Eric in SF. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3383,7 +3395,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "One of the most forgiving houseplants you can own \u2014 it trails readily, tolerates some neglect, and bounces back from imperfect watering better than most. Give it bright indirect light for best growth, but it'll manage in medium light without much fuss.",
+    "short_description": "One of the most forgiving houseplants you can own — it trails readily, tolerates some neglect, and bounces back from imperfect watering better than most. Give it bright indirect light for best growth, but it'll manage in medium light without much fuss.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Philodendron_hederaceum%2C_Singapore_Botanic_Gardens_%28141542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Moheen Reeyad. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3455,16 +3467,17 @@
     "best_for": [
       "bright sunny rooms",
       "small spaces",
-      "shelf or elevated planters"
+      "shelf or elevated planters",
+      "flowers"
     ],
     "failure_modes": [
       "overwatering",
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A compact bromeliad that produces a vivid, paddle-shaped pink bloom spike with violet flowers \u2014 one of the most striking small plants you can put on a shelf. It's fussier than it looks: it needs bright indirect light, careful watering (let the soil half-dry between waterings), and decent humidity to thrive long-term.",
+    "short_description": "A compact bromeliad that produces a vivid, paddle-shaped pink bloom spike with violet flowers — one of the most striking small plants you can put on a shelf. It's fussier than it looks: it needs bright indirect light, careful watering (let the soil half-dry between waterings), and decent humidity to thrive long-term.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Tillandsia_cyanea1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "image_attribution": "Photo: Kurt St\u00fcber [1]. CC BY-SA 3.0 via Wikimedia Commons.",
+    "image_attribution": "Photo: Kurt Stüber [1]. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
       "light": "llm:claude-sonnet-4-6",
       "pet_safe": "aspca:no_match",
@@ -3498,7 +3511,7 @@
       "overwatering",
       "root rot"
     ],
-    "short_description": "A bold tropical with large, arrow-shaped leaves featuring striking white veining on deep green. It craves humidity and consistent (but not soggy) moisture \u2014 let it dry halfway before watering, and keep it away from dry air and cold drafts.",
+    "short_description": "A bold tropical with large, arrow-shaped leaves featuring striking white veining on deep green. It craves humidity and consistent (but not soggy) moisture — let it dry halfway before watering, and keep it away from dry air and cold drafts.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Xanthosoma_lindenii_5zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Photo by David J. Stang. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3578,7 +3591,7 @@
       "root rot",
       "low humidity damage"
     ],
-    "short_description": "A drought-tough succulent with long, bead-like stems that cascade beautifully from a hanging basket or shelf. Give it a sunny south- or west-facing window and forget to water it \u2014 that's genuinely the right strategy.",
+    "short_description": "A drought-tough succulent with long, bead-like stems that cascade beautifully from a hanging basket or shelf. Give it a sunny south- or west-facing window and forget to water it — that's genuinely the right strategy.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Sedum_morganianum_%28donkey%27s_tail%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Paradoxurus. CC0 via Wikimedia Commons.",
     "provenance": {
@@ -3694,7 +3707,7 @@
       "root rot",
       "spider mites"
     ],
-    "short_description": "A compact, multi-stemmed shrub-tree with glossy, umbrella-like leaf clusters that can grow into a serious floor plant over time. It wants bright indirect light and consistent watering \u2014 let it get too dark or too soggy and it will drop leaves fast.",
+    "short_description": "A compact, multi-stemmed shrub-tree with glossy, umbrella-like leaf clusters that can grow into a serious floor plant over time. It wants bright indirect light and consistent watering — let it get too dark or too soggy and it will drop leaves fast.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Schefflera_arboricola%2C_vrugte%2C_a%2C_Pretoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: JMK. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
@@ -3732,7 +3745,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "A forgiving tropical that tolerates lower light better than most, and tells you when it's thirsty by drooping dramatically \u2014 then bounces back quickly after a drink. The catch is it wants consistently moist (not soggy) soil, so it punishes both neglect and heavy-handed watering.",
+    "short_description": "A forgiving tropical that tolerates lower light better than most, and tells you when it's thirsty by drooping dramatically — then bounces back quickly after a drink. The catch is it wants consistently moist (not soggy) soil, so it punishes both neglect and heavy-handed watering.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Peace_lily_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: W.carter. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3771,7 +3784,7 @@
       "root rot",
       "brown crispy leaf tips"
     ],
-    "short_description": "A dramatic floor plant with huge, paddle-shaped leaves that can reach ceiling height indoors. It needs a genuinely sunny spot \u2014 a south or west-facing window \u2014 and will sulk, stop growing, or develop crispy leaf edges without enough light and humidity.",
+    "short_description": "A dramatic floor plant with huge, paddle-shaped leaves that can reach ceiling height indoors. It needs a genuinely sunny spot — a south or west-facing window — and will sulk, stop growing, or develop crispy leaf edges without enough light and humidity.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Strelitzia_larger.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Scott Bauer, USDA. Public domain via Wikimedia Commons.",
     "provenance": {
@@ -3811,7 +3824,7 @@
       "root rot",
       "yellowing leaves"
     ],
-    "short_description": "One of the toughest houseplants around \u2014 it stores water in thick rhizomes underground, so it handles neglect and low light far better than most. The main way people kill it is by overwatering; when in doubt, wait another week.",
+    "short_description": "One of the toughest houseplants around — it stores water in thick rhizomes underground, so it handles neglect and low light far better than most. The main way people kill it is by overwatering; when in doubt, wait another week.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zamioculcas_zamifolia-2-hanuman_temple-muluvi-yercaud-salem-India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: Yercaud-elango. CC BY-SA 4.0 via Wikimedia Commons.",
     "provenance": {
@@ -3849,7 +3862,7 @@
       "root rot",
       "leaf scorch"
     ],
-    "short_description": "A bold, trunk-forming desert plant that thrives in a sunny spot and forgives neglect \u2014 drought tolerance is its superpower. The Kaggle watering guidance is misleading; Yucca elephantipes wants to dry out well between waterings, not stay consistently moist, or root rot will follow quickly.",
+    "short_description": "A bold, trunk-forming desert plant that thrives in a sunny spot and forgives neglect — drought tolerance is its superpower. The Kaggle watering guidance is misleading; Yucca elephantipes wants to dry out well between waterings, not stay consistently moist, or root rot will follow quickly.",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Yucca_gigantea_-_Jard%C3%ADn_Bot%C3%A1nico_Canario_Viera_y_Clavijo_-_Gran_Canaria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "image_attribution": "Photo: H. Zell. CC BY-SA 3.0 via Wikimedia Commons.",
     "provenance": {
