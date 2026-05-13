@@ -9,7 +9,6 @@ const WELCOME_TEXT =
 const CHIPS = [
   '🌱 Plant newbie',
   '💀 Serial plant killer (oops)',
-  '🪴 Getting the hang of it',
   '🌿 Confident plant parent',
 ];
 
