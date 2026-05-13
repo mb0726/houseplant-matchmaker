@@ -61,7 +61,9 @@ const TOOL_DEFS: Anthropic.Tool[] = [
     description:
       'Filter the plant dataset by hard constraints and rank the survivors by soft preferences. ' +
       'Returns up to `limit` matches sorted by fit_score, plus plants filtered out only because ' +
-      'their pet_safety is unverified (so you can offer them with a caveat).',
+      'their pet_safety is unverified (so you can offer them with a caveat). ' +
+      'Each match includes the full plant object inline (description, care attributes, image, vibe, failure_modes, everything) — ' +
+      'do NOT call get_plant_details on plants that came back from filter_plants; you already have the data.',
     input_schema: {
       type: 'object',
       properties: {
@@ -141,7 +143,8 @@ const TOOL_DEFS: Anthropic.Tool[] = [
   },
   {
     name: 'get_plant_details',
-    description: 'Get the full record for one plant by id. Use after filter_plants returns matches.',
+    description:
+      'Get the full record for one plant by id. Only call this when the user names a plant that was NOT in a recent filter_plants result (e.g. mid-conversation "tell me about Hoya"). Do NOT call this after filter_plants — full plant data is already included in filter_plants matches.',
     input_schema: {
       type: 'object',
       properties: {
@@ -253,9 +256,9 @@ export type AgentResult = {
   response: string;
   // Tool-call trace for the observability panel.
   trace: TraceEntry[];
-  // Plants the agent surfaced this turn (from get_plant_details / compare_plants).
-  // Deduped by id, in the order they were fetched. Rendered as cards inline in
-  // the assistant's message at {{card:id}} marker positions.
+  // Plants available to render as cards this turn (sourced from filter_plants /
+  // get_plant_details / compare_plants tool results). Deduped by id, in fetch order.
+  // Only plants the agent placed a {{card:id}} marker for actually render.
   cards: Plant[];
   // Follow-up chip suggestions from the agent's set_followups call. Empty when
   // the agent didn't call set_followups (treat as "no chips this turn").
@@ -315,10 +318,14 @@ function textFromContent(content: Anthropic.ContentBlock[]): string {
     .trim();
 }
 
-// Plants the agent surfaced via get_plant_details / compare_plants. We deduplicate
-// in case the agent fetched the same plant twice (rare but cheap to guard).
+// Plants the agent surfaced via filter_plants / get_plant_details / compare_plants.
+// We deduplicate in case the agent fetched the same plant twice (rare but cheap to guard).
 function extractCards(toolName: string, result: AnyToolResult): Plant[] {
   if (!result.ok) return [];
+  if (toolName === 'filter_plants') {
+    const matches = (result.data as { matches: { plant: Plant }[] }).matches;
+    return matches.map((m) => m.plant);
+  }
   if (toolName === 'get_plant_details') {
     return [(result.data as { plant: Plant }).plant];
   }
