@@ -53,6 +53,9 @@ export type FilterMatch = {
   plant_id: string;
   fit_score: number; // 0-100
   reasons: string[];
+  // Full plant object inlined so the agent can write recommendation prose
+  // without a follow-up get_plant_details call. Saves a model round-trip.
+  plant: Plant;
 };
 
 export type FilterPlantsOutput = {
@@ -271,7 +274,7 @@ export function filter_plants(input: FilterPlantsInput): ToolResult<FilterPlants
     }
     const { score, reasons: prefReasons } = scorePreferences(p, prefs);
     const reasons = [...buildBaseReasons(p, hard), ...prefReasons];
-    matches.push({ plant_id: p.id, fit_score: score, reasons });
+    matches.push({ plant_id: p.id, fit_score: score, reasons, plant: p });
   }
 
   // Sort by fit_score desc, then id asc for deterministic tie-breaking.
